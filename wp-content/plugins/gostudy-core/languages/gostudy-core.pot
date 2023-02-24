@@ -1,0 +1,3809 @@
+# Copyright (C) 2021 gostudy-core
+# This file is distributed under the same license as the gostudy-core package.
+msgid ""
+msgstr ""
+"Project-Id-Version: gostudy-core\n"
+"Report-Msgid-Bugs-To: https://www.raistheme.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: RaisTheme <help.raistheme@gmail.com>\n"
+"Language-Team: RaisTheme <https://www.raistheme.com/>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/class-rt-core.php:285
+msgid "Showing the single result"
+msgstr ""
+
+#: includes/class-rt-core.php:287
+msgid "Showing all %d results"
+msgstr ""
+
+#: includes/class-rt-core.php:289
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing <strong>%1$d&ndash;%2$d</strong> of %3$d results"
+msgstr ""
+
+#: includes/elementor/controls/rt_icon.php:91
+msgid "Select Icon"
+msgstr ""
+
+#: includes/elementor/header/rt-header-cart.php:25
+msgid "WooCart"
+msgstr ""
+
+#: includes/elementor/header/rt-header-cart.php:50, includes/elementor/header/rt-header-cart.php:100, includes/elementor/header/rt-header-delimiter.php:50, includes/elementor/header/rt-header-list_info.php:48, includes/elementor/header/rt-header-logo.php:47, includes/elementor/header/rt-header-menu.php:56, includes/elementor/header/rt-header-search.php:53, includes/elementor/widgets/rt-accordion-service.php:44, includes/elementor/widgets/rt-button-widget.php:59, includes/elementor/widgets/rt-cat-box.php:49, includes/elementor/widgets/rt-counter.php:49, includes/elementor/widgets/rt-counter.php:193, includes/elementor/widgets/rt-courses-ld.php:48, includes/elementor/widgets/rt-courses-ld.php:740, includes/elementor/widgets/rt-courses-tutor.php:48, includes/elementor/widgets/rt-courses-tutor.php:632, includes/elementor/widgets/rt-courses.php:48, includes/elementor/widgets/rt-courses.php:643, includes/elementor/widgets/rt-double-headings.php:43, includes/elementor/widgets/rt-feedback.php:45, includes/elementor/widgets/rt-info-box.php:49, includes/elementor/widgets/rt-pricing-table.php:46, includes/elementor/widgets/rt-progress-bar.php:48, includes/elementor/widgets/rt-social-icons.php:47, includes/elementor/widgets/rt-tabs.php:63, includes/elementor/widgets/rt-toggle-accordion.php:61, includes/elementor/widgets/rt-video-popup.php:41
+msgid "General"
+msgstr ""
+
+#: includes/elementor/header/rt-header-cart.php:56
+msgid "Cart Icon Height"
+msgstr ""
+
+#: includes/elementor/header/rt-header-cart.php:67, includes/elementor/header/rt-header-date.php:204, includes/elementor/header/rt-header-delimiter.php:84, includes/elementor/header/rt-header-list_info.php:150, includes/elementor/header/rt-header-logo.php:95, includes/elementor/header/rt-header-menu.php:167, includes/elementor/header/rt-header-menu.php:195, includes/elementor/header/rt-header-search.php:59, includes/elementor/header/rt-header-side_panel.php:84, includes/elementor/header/rt-header-wpml.php:70, includes/elementor/widgets/rt-blog.php:1317, includes/elementor/widgets/rt-button-widget.php:86, includes/elementor/widgets/rt-cat-box.php:109, includes/elementor/widgets/rt-countdown.php:189, includes/elementor/widgets/rt-counter.php:162, includes/elementor/widgets/rt-courses-ld.php:814, includes/elementor/widgets/rt-courses-tutor.php:705, includes/elementor/widgets/rt-courses.php:717, includes/elementor/widgets/rt-double-headings.php:96, includes/elementor/widgets/rt-gallery.php:828, includes/elementor/widgets/rt-hero-section-2.php:838, includes/elementor/widgets/rt-hero-section.php:853, includes/elementor/widgets/rt-info-box.php:79, includes/elementor/widgets/rt-pricing-table.php:52, includes/elementor/widgets/rt-satellite-service.php:100, includes/elementor/widgets/rt-social-icons.php:302, includes/elementor/widgets/rt-video-popup.php:99
+msgid "Alignment"
+msgstr ""
+
+#: includes/elementor/header/rt-header-cart.php:73, includes/elementor/header/rt-header-date.php:208, includes/elementor/header/rt-header-delimiter.php:89, includes/elementor/header/rt-header-list_info.php:155, includes/elementor/header/rt-header-logo.php:101, includes/elementor/header/rt-header-menu.php:173, includes/elementor/header/rt-header-menu.php:201, includes/elementor/header/rt-header-search.php:64, includes/elementor/header/rt-header-side_panel.php:89, includes/elementor/header/rt-header-wpml.php:74, includes/elementor/widgets/rt-blog.php:221, includes/elementor/widgets/rt-blog.php:1321, includes/elementor/widgets/rt-button-widget.php:91, includes/elementor/widgets/rt-cat-box.php:114, includes/elementor/widgets/rt-countdown.php:193, includes/elementor/widgets/rt-counter.php:73, includes/elementor/widgets/rt-counter.php:167, includes/elementor/widgets/rt-courses-ld.php:818, includes/elementor/widgets/rt-courses-tutor.php:709, includes/elementor/widgets/rt-courses.php:721, includes/elementor/widgets/rt-double-headings.php:102, includes/elementor/widgets/rt-gallery.php:832, includes/elementor/widgets/rt-hero-section-2.php:843, includes/elementor/widgets/rt-hero-section.php:858, includes/elementor/widgets/rt-info-box.php:64, includes/elementor/widgets/rt-info-box.php:84, includes/elementor/widgets/rt-pricing-table.php:56, includes/elementor/widgets/rt-satellite-service.php:104, includes/elementor/widgets/rt-social-icons.php:306, includes/elementor/widgets/rt-tabs.php:73, includes/elementor/widgets/rt-tabs.php:585, includes/elementor/widgets/rt-toggle-accordion.php:146, includes/elementor/widgets/rt-video-popup.php:77, includes/elementor/widgets/rt-video-popup.php:103
+msgid "Left"
+msgstr ""
+
+#: includes/elementor/header/rt-header-cart.php:77, includes/elementor/header/rt-header-date.php:212, includes/elementor/header/rt-header-delimiter.php:93, includes/elementor/header/rt-header-list_info.php:159, includes/elementor/header/rt-header-logo.php:105, includes/elementor/header/rt-header-menu.php:177, includes/elementor/header/rt-header-menu.php:205, includes/elementor/header/rt-header-search.php:68, includes/elementor/header/rt-header-side_panel.php:93, includes/elementor/header/rt-header-wpml.php:78, includes/elementor/widgets/rt-blog.php:225, includes/elementor/widgets/rt-blog.php:1325, includes/elementor/widgets/rt-button-widget.php:95, includes/elementor/widgets/rt-cat-box.php:118, includes/elementor/widgets/rt-countdown.php:197, includes/elementor/widgets/rt-counter.php:171, includes/elementor/widgets/rt-courses-ld.php:822, includes/elementor/widgets/rt-courses-tutor.php:713, includes/elementor/widgets/rt-courses.php:725, includes/elementor/widgets/rt-double-headings.php:106, includes/elementor/widgets/rt-gallery.php:836, includes/elementor/widgets/rt-hero-section-2.php:847, includes/elementor/widgets/rt-hero-section.php:862, includes/elementor/widgets/rt-info-box.php:88, includes/elementor/widgets/rt-pricing-table.php:60, includes/elementor/widgets/rt-satellite-service.php:108, includes/elementor/widgets/rt-social-icons.php:310, includes/elementor/widgets/rt-tabs.php:77, includes/elementor/widgets/rt-video-popup.php:107
+msgid "Center"
+msgstr ""
+
+#: includes/elementor/header/rt-header-cart.php:81, includes/elementor/header/rt-header-date.php:216, includes/elementor/header/rt-header-delimiter.php:97, includes/elementor/header/rt-header-list_info.php:163, includes/elementor/header/rt-header-logo.php:109, includes/elementor/header/rt-header-menu.php:181, includes/elementor/header/rt-header-menu.php:209, includes/elementor/header/rt-header-search.php:72, includes/elementor/header/rt-header-side_panel.php:97, includes/elementor/header/rt-header-wpml.php:82, includes/elementor/widgets/rt-blog.php:229, includes/elementor/widgets/rt-blog.php:1329, includes/elementor/widgets/rt-button-widget.php:99, includes/elementor/widgets/rt-cat-box.php:122, includes/elementor/widgets/rt-countdown.php:201, includes/elementor/widgets/rt-counter.php:77, includes/elementor/widgets/rt-counter.php:175, includes/elementor/widgets/rt-courses-ld.php:826, includes/elementor/widgets/rt-courses-tutor.php:717, includes/elementor/widgets/rt-courses.php:729, includes/elementor/widgets/rt-double-headings.php:110, includes/elementor/widgets/rt-gallery.php:840, includes/elementor/widgets/rt-hero-section-2.php:851, includes/elementor/widgets/rt-hero-section.php:866, includes/elementor/widgets/rt-info-box.php:68, includes/elementor/widgets/rt-info-box.php:92, includes/elementor/widgets/rt-pricing-table.php:64, includes/elementor/widgets/rt-satellite-service.php:112, includes/elementor/widgets/rt-social-icons.php:314, includes/elementor/widgets/rt-tabs.php:81, includes/elementor/widgets/rt-tabs.php:577, includes/elementor/widgets/rt-toggle-accordion.php:150, includes/elementor/widgets/rt-video-popup.php:85, includes/elementor/widgets/rt-video-popup.php:111
+msgid "Right"
+msgstr ""
+
+#: includes/elementor/header/rt-header-cart.php:109, includes/elementor/header/rt-header-list_info.php:270, includes/elementor/header/rt-header-list_info.php:381, includes/elementor/header/rt-header-login_join.php:184, includes/elementor/header/rt-header-login_join.php:244, includes/elementor/header/rt-header-lp_login.php:131, includes/elementor/header/rt-header-menu.php:261, includes/elementor/header/rt-header-menu.php:394, includes/elementor/header/rt-header-search.php:139, includes/elementor/header/rt-header-side_panel.php:118, includes/elementor/header/rt-header-wc_login.php:131, includes/elementor/includes/carousel_settings.php:484, includes/elementor/includes/feedback_settings.php:489, includes/elementor/includes/slider_settings.php:484, includes/elementor/widgets/rt-accordion-service.php:661, includes/elementor/widgets/rt-blog.php:890, includes/elementor/widgets/rt-blog.php:1073, includes/elementor/widgets/rt-blog.php:1227, includes/elementor/widgets/rt-blog.php:1377, includes/elementor/widgets/rt-button-widget.php:180, includes/elementor/widgets/rt-button-widget.php:391, includes/elementor/widgets/rt-cat-box.php:472, includes/elementor/widgets/rt-cat-box.php:637, includes/elementor/widgets/rt-cat-box.php:811, includes/elementor/widgets/rt-cat-box.php:971, includes/elementor/widgets/rt-cat-box.php:1069, includes/elementor/widgets/rt-counter.php:238, includes/elementor/widgets/rt-courses-ld.php:933, includes/elementor/widgets/rt-courses-tutor.php:824, includes/elementor/widgets/rt-courses.php:836, includes/elementor/widgets/rt-feedback.php:244, includes/elementor/widgets/rt-feedback.php:384, includes/elementor/widgets/rt-gallery.php:554, includes/elementor/widgets/rt-gallery.php:701, includes/elementor/widgets/rt-gallery.php:937, includes/elementor/widgets/rt-gallery.php:1016, includes/elementor/widgets/rt-hero-section-2.php:944, includes/elementor/widgets/rt-hero-section-2.php:1040, includes/elementor/widgets/rt-hero-section.php:959, includes/elementor/widgets/rt-hero-section.php:1055, includes/elementor/widgets/rt-info-box.php:501, includes/elementor/widgets/rt-info-box.php:667, includes/elementor/widgets/rt-info-box.php:841, includes/elementor/widgets/rt-info-box.php:933, includes/elementor/widgets/rt-info-box.php:1017, includes/elementor/widgets/rt-info-box.php:1135, includes/elementor/widgets/rt-info-box.php:1225, includes/elementor/widgets/rt-info-box.php:1324, includes/elementor/widgets/rt-pricing-table.php:563, includes/elementor/widgets/rt-satellite-service.php:208, includes/elementor/widgets/rt-satellite-service.php:340, includes/elementor/widgets/rt-satellite-service.php:490, includes/elementor/widgets/rt-satellite-service.php:616, includes/elementor/widgets/rt-satellite-service.php:721, includes/elementor/widgets/rt-satellite-service.php:871, includes/elementor/widgets/rt-social-icons.php:170, includes/elementor/widgets/rt-social-icons.php:368, includes/elementor/widgets/rt-tabs.php:304, includes/elementor/widgets/rt-tabs.php:610, includes/elementor/widgets/rt-toggle-accordion.php:355, includes/elementor/widgets/rt-toggle-accordion.php:594, includes/elementor/widgets/rt-toggle-accordion.php:733, includes/elementor/widgets/rt-video-popup.php:323
+msgid "Idle"
+msgstr ""
+
+#: includes/elementor/header/rt-header-cart.php:115, includes/elementor/header/rt-header-cart.php:148, includes/elementor/header/rt-header-menu.php:280, includes/elementor/header/rt-header-menu.php:312, includes/elementor/header/rt-header-menu.php:345, includes/elementor/header/rt-header-menu.php:413, includes/elementor/header/rt-header-menu.php:445, includes/elementor/header/rt-header-menu.php:478, includes/elementor/header/rt-header-search.php:145, includes/elementor/header/rt-header-search.php:177, includes/elementor/header/rt-header-search.php:209, includes/elementor/header/rt-header-side_panel.php:124, includes/elementor/header/rt-header-side_panel.php:157, includes/elementor/widgets/rt-button-widget.php:397, includes/elementor/widgets/rt-button-widget.php:417, includes/elementor/widgets/rt-counter.php:326, includes/elementor/widgets/rt-courses-ld.php:1057, includes/elementor/widgets/rt-courses-tutor.php:948, includes/elementor/widgets/rt-courses.php:960, includes/elementor/widgets/rt-feedback.php:606, includes/elementor/widgets/rt-social-icons.php:374, includes/elementor/widgets/rt-social-icons.php:423, includes/elementor/widgets/rt-tabs.php:616, includes/elementor/widgets/rt-tabs.php:635, includes/elementor/widgets/rt-tabs.php:654, includes/elementor/widgets/rt-toggle-accordion.php:739, includes/elementor/widgets/rt-toggle-accordion.php:789, includes/elementor/widgets/rt-toggle-accordion.php:839, includes/elementor/widgets/rt-video-popup.php:329, includes/elementor/widgets/rt-video-popup.php:387
+msgid "Icon Color"
+msgstr ""
+
+#: includes/elementor/header/rt-header-cart.php:128, includes/elementor/header/rt-header-cart.php:160
+msgid "Items Counter Background"
+msgstr ""
+
+#: includes/elementor/header/rt-header-cart.php:142, includes/elementor/header/rt-header-list_info.php:304, includes/elementor/header/rt-header-list_info.php:400, includes/elementor/header/rt-header-login_join.php:204, includes/elementor/header/rt-header-login_join.php:287, includes/elementor/header/rt-header-lp_login.php:183, includes/elementor/header/rt-header-menu.php:293, includes/elementor/header/rt-header-menu.php:426, includes/elementor/header/rt-header-search.php:171, includes/elementor/header/rt-header-side_panel.php:151, includes/elementor/header/rt-header-wc_login.php:183, includes/elementor/includes/carousel_settings.php:524, includes/elementor/includes/feedback_settings.php:529, includes/elementor/includes/slider_settings.php:524, includes/elementor/widgets/rt-accordion-service.php:702, includes/elementor/widgets/rt-blog.php:910, includes/elementor/widgets/rt-blog.php:1092, includes/elementor/widgets/rt-blog.php:1258, includes/elementor/widgets/rt-blog.php:1427, includes/elementor/widgets/rt-button-widget.php:249, includes/elementor/widgets/rt-button-widget.php:411, includes/elementor/widgets/rt-cat-box.php:519, includes/elementor/widgets/rt-cat-box.php:695, includes/elementor/widgets/rt-cat-box.php:845, includes/elementor/widgets/rt-cat-box.php:1004, includes/elementor/widgets/rt-cat-box.php:1121, includes/elementor/widgets/rt-cat-item.php:234, includes/elementor/widgets/rt-cf-seven.php:182, includes/elementor/widgets/rt-cf-seven.php:766, includes/elementor/widgets/rt-counter.php:274, includes/elementor/widgets/rt-courses-ld.php:953, includes/elementor/widgets/rt-courses-tutor.php:844, includes/elementor/widgets/rt-courses.php:856, includes/elementor/widgets/rt-feedback.php:268, includes/elementor/widgets/rt-feedback.php:407, includes/elementor/widgets/rt-feedback.php:885, includes/elementor/widgets/rt-gallery.php:591, includes/elementor/widgets/rt-gallery.php:763, includes/elementor/widgets/rt-gallery.php:956, includes/elementor/widgets/rt-gallery.php:1035, includes/elementor/widgets/rt-hero-section-2.php:977, includes/elementor/widgets/rt-hero-section-2.php:1059, includes/elementor/widgets/rt-hero-section.php:992, includes/elementor/widgets/rt-hero-section.php:1074, includes/elementor/widgets/rt-info-box.php:548, includes/elementor/widgets/rt-info-box.php:725, includes/elementor/widgets/rt-info-box.php:875, includes/elementor/widgets/rt-info-box.php:953, includes/elementor/widgets/rt-info-box.php:1037, includes/elementor/widgets/rt-info-box.php:1154, includes/elementor/widgets/rt-info-box.php:1258, includes/elementor/widgets/rt-info-box.php:1340, includes/elementor/widgets/rt-pricing-table.php:618, includes/elementor/widgets/rt-satellite-service.php:230, includes/elementor/widgets/rt-satellite-service.php:362, includes/elementor/widgets/rt-satellite-service.php:512, includes/elementor/widgets/rt-satellite-service.php:638, includes/elementor/widgets/rt-satellite-service.php:772, includes/elementor/widgets/rt-satellite-service.php:909, includes/elementor/widgets/rt-social-icons.php:211, includes/elementor/widgets/rt-social-icons.php:417, includes/elementor/widgets/rt-tabs.php:379, includes/elementor/widgets/rt-tabs.php:629, includes/elementor/widgets/rt-team.php:402, includes/elementor/widgets/rt-toggle-accordion.php:422, includes/elementor/widgets/rt-toggle-accordion.php:613, includes/elementor/widgets/rt-toggle-accordion.php:783, includes/elementor/widgets/rt-video-popup.php:381, includes/elementor/widgets/rt-wpforms.php:815
+msgid "Hover"
+msgstr ""
+
+#: includes/elementor/header/rt-header-cart.php:195
+msgid "Click to open Shopping Cart"
+msgstr ""
+
+#: includes/elementor/header/rt-header-date.php:25
+msgid "RT Current Date"
+msgstr ""
+
+#: includes/elementor/header/rt-header-date.php:44
+msgid "Date Settings"
+msgstr ""
+
+#: includes/elementor/header/rt-header-date.php:51
+msgid "Date Format"
+msgstr ""
+
+#: includes/elementor/header/rt-header-date.php:54, includes/elementor/header/rt-header-date.php:83, includes/elementor/header/rt-header-login_join.php:55, includes/elementor/header/rt-header-lp_login.php:55, includes/elementor/header/rt-header-wc_login.php:55, includes/elementor/includes/slider_settings.php:91, includes/elementor/widgets/rt-cat-box.php:144, includes/elementor/widgets/rt-gallery.php:279, includes/elementor/widgets/rt-gallery.php:645, includes/elementor/widgets/rt-info-box.php:114, includes/elementor/widgets/rt-toggle-accordion.php:107
+msgid "Default"
+msgstr ""
+
+#: includes/elementor/header/rt-header-date.php:55
+msgid "Wordpress Format"
+msgstr ""
+
+#: includes/elementor/header/rt-header-date.php:56, includes/elementor/header/rt-header-login_join.php:56, includes/elementor/header/rt-header-lp_login.php:56, includes/elementor/header/rt-header-menu.php:66, includes/elementor/header/rt-header-wc_login.php:56, includes/elementor/widgets/rt-countdown.php:229, includes/elementor/widgets/rt-social-icons.php:157, includes/elementor/widgets/rt-social-icons.php:355, includes/elementor/widgets/rt-toggle-accordion.php:94
+msgid "Custom"
+msgstr ""
+
+#: includes/elementor/header/rt-header-date.php:65
+msgid "Custom Date Format"
+msgstr ""
+
+#: includes/elementor/header/rt-header-date.php:73
+msgid "Set your date format, about this, please refer to the "
+msgstr ""
+
+#: includes/elementor/header/rt-header-date.php:73
+msgid "Wordpress.org"
+msgstr ""
+
+#: includes/elementor/header/rt-header-date.php:80
+msgid "Time Zone"
+msgstr ""
+
+#: includes/elementor/header/rt-header-date.php:237
+msgid "Date Style"
+msgstr ""
+
+#: includes/elementor/header/rt-header-date.php:244
+msgid "Day Color"
+msgstr ""
+
+#: includes/elementor/header/rt-header-date.php:257
+msgid "Month and Year Colors"
+msgstr ""
+
+#: includes/elementor/header/rt-header-delimiter.php:26
+msgid "RT Delimiter"
+msgstr ""
+
+#: includes/elementor/header/rt-header-delimiter.php:56
+msgid "Delimiter Height"
+msgstr ""
+
+#: includes/elementor/header/rt-header-delimiter.php:70
+msgid "Delimiter Width"
+msgstr ""
+
+#: includes/elementor/header/rt-header-delimiter.php:74
+msgid "Values in pixels"
+msgstr ""
+
+#: includes/elementor/header/rt-header-delimiter.php:120, includes/elementor/header/rt-header-login_join.php:343, includes/elementor/header/rt-header-search.php:236, includes/elementor/widgets/rt-accordion-service.php:396, includes/elementor/widgets/rt-accordion-service.php:490, includes/elementor/widgets/rt-accordion-service.php:565, includes/elementor/widgets/rt-accordion-service.php:605, includes/elementor/widgets/rt-blog.php:795, includes/elementor/widgets/rt-blog.php:824, includes/elementor/widgets/rt-blog.php:877, includes/elementor/widgets/rt-blog.php:954, includes/elementor/widgets/rt-blog.php:1036, includes/elementor/widgets/rt-blog.php:1199, includes/elementor/widgets/rt-blog.php:1343, includes/elementor/widgets/rt-button-widget.php:374, includes/elementor/widgets/rt-cat-box.php:418, includes/elementor/widgets/rt-cat-box.php:589, includes/elementor/widgets/rt-cat-box.php:783, includes/elementor/widgets/rt-cat-box.php:901, includes/elementor/widgets/rt-cat-box.php:943, includes/elementor/widgets/rt-cf-seven.php:298, includes/elementor/widgets/rt-cf-seven.php:357, includes/elementor/widgets/rt-cf-seven.php:449, includes/elementor/widgets/rt-cf-seven.php:561, includes/elementor/widgets/rt-cf-seven.php:721, includes/elementor/widgets/rt-counter.php:201, includes/elementor/widgets/rt-counter.php:356, includes/elementor/widgets/rt-counter.php:504, includes/elementor/widgets/rt-courses-ld.php:867, includes/elementor/widgets/rt-courses-ld.php:920, includes/elementor/widgets/rt-courses-ld.php:997, includes/elementor/widgets/rt-courses-tutor.php:758, includes/elementor/widgets/rt-courses-tutor.php:811, includes/elementor/widgets/rt-courses-tutor.php:888, includes/elementor/widgets/rt-courses.php:770, includes/elementor/widgets/rt-courses.php:823, includes/elementor/widgets/rt-courses.php:900, includes/elementor/widgets/rt-double-headings.php:364, includes/elementor/widgets/rt-gallery.php:924, includes/elementor/widgets/rt-gallery.php:1003, includes/elementor/widgets/rt-hero-section-2.php:572, includes/elementor/widgets/rt-hero-section.php:587, includes/elementor/widgets/rt-info-box.php:447, includes/elementor/widgets/rt-info-box.php:618, includes/elementor/widgets/rt-info-box.php:813, includes/elementor/widgets/rt-info-box.php:997, includes/elementor/widgets/rt-info-box.php:1099, includes/elementor/widgets/rt-info-box.php:1197, includes/elementor/widgets/rt-pricing-table.php:240, includes/elementor/widgets/rt-pricing-table.php:709, includes/elementor/widgets/rt-progress-bar.php:140, includes/elementor/widgets/rt-progress-bar.php:200, includes/elementor/widgets/rt-progress-bar.php:322, includes/elementor/widgets/rt-satellite-service.php:252, includes/elementor/widgets/rt-satellite-service.php:694, includes/elementor/widgets/rt-satellite-service.php:833, includes/elementor/widgets/rt-tabs.php:281, includes/elementor/widgets/rt-tabs.php:597, includes/elementor/widgets/rt-tabs.php:711, includes/elementor/widgets/rt-toggle-accordion.php:342, includes/elementor/widgets/rt-toggle-accordion.php:685, includes/elementor/widgets/rt-toggle-accordion.php:927, includes/elementor/widgets/rt-video-popup.php:224, includes/elementor/widgets/rt-video-popup.php:294, includes/elementor/widgets/rt-wpforms.php:270, includes/elementor/widgets/rt-wpforms.php:331, includes/elementor/widgets/rt-wpforms.php:402, includes/elementor/widgets/rt-wpforms.php:494, includes/elementor/widgets/rt-wpforms.php:606, includes/elementor/widgets/rt-wpforms.php:770
+msgid "Margin"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:27
+msgid "RT Icon + Text"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:54, includes/elementor/widgets/rt-blog.php:65, includes/elementor/widgets/rt-blog.php:92, includes/elementor/widgets/rt-cat-box.php:55, includes/elementor/widgets/rt-counter.php:64, includes/elementor/widgets/rt-courses-ld.php:76, includes/elementor/widgets/rt-courses-tutor.php:76, includes/elementor/widgets/rt-courses.php:76, includes/elementor/widgets/rt-hero-section-2.php:365, includes/elementor/widgets/rt-hero-section.php:380, includes/elementor/widgets/rt-info-box.php:55
+msgid "Layout"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:68, includes/elementor/header/rt-header-list_info.php:364, includes/elementor/modules/rt-section.php:292, includes/elementor/widgets/rt-button-widget.php:65, includes/elementor/widgets/rt-hero-section-2.php:379, includes/elementor/widgets/rt-hero-section.php:394
+msgid "Text"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:72, includes/elementor/header/rt-header-list_info.php:73, includes/elementor/widgets/rt-hero-section-2.php:383, includes/elementor/widgets/rt-hero-section-2.php:384, includes/elementor/widgets/rt-hero-section.php:398, includes/elementor/widgets/rt-hero-section.php:399
+msgid "List Item"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:80, includes/elementor/header/rt-header-list_info.php:261, includes/elementor/includes/icons_settings.php:61, includes/elementor/includes/icons_settings.php:85, includes/elementor/widgets/rt-accordion-service.php:221, includes/elementor/widgets/rt-accordion-service.php:236, includes/elementor/widgets/rt-accordion-service.php:388, includes/elementor/widgets/rt-cat-box.php:376, includes/elementor/widgets/rt-hero-section-2.php:391, includes/elementor/widgets/rt-hero-section.php:406, includes/elementor/widgets/rt-info-box.php:405, includes/elementor/widgets/rt-social-icons.php:55, includes/elementor/widgets/rt-social-icons.php:343, includes/elementor/widgets/rt-tabs.php:129, includes/elementor/widgets/rt-tabs.php:143, includes/elementor/widgets/rt-tabs.php:537, includes/elementor/widgets/rt-team.php:474, includes/elementor/widgets/rt-toggle-accordion.php:89, includes/elementor/widgets/rt-toggle-accordion.php:660, includes/meta-box-extensions/select_icon_field.php:57
+msgid "Icon"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:94, includes/elementor/widgets/rt-accordion-service.php:200, includes/elementor/widgets/rt-accordion-service.php:278, includes/elementor/widgets/rt-button-widget.php:76, includes/elementor/widgets/rt-cat-box.php:218, includes/elementor/widgets/rt-cat-box.php:224, includes/elementor/widgets/rt-gallery.php:225, includes/elementor/widgets/rt-hero-section-2.php:405, includes/elementor/widgets/rt-hero-section.php:420, includes/elementor/widgets/rt-info-box.php:210, includes/elementor/widgets/rt-info-box.php:216, includes/elementor/widgets/rt-satellite-service.php:145, includes/elementor/widgets/rt-social-icons.php:142, includes/meta-box-extensions/select_icon_field.php:66
+msgid "Link"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:98, includes/elementor/header/rt-header-login_join.php:77, includes/elementor/header/rt-header-login_join.php:96, includes/elementor/header/rt-header-login_join.php:115, includes/elementor/widgets/rt-button-widget.php:78, includes/elementor/widgets/rt-double-headings.php:124, includes/elementor/widgets/rt-hero-section-2.php:409, includes/elementor/widgets/rt-hero-section.php:424, includes/elementor/widgets/rt-social-icons.php:145
+msgid "https://your-link.com"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:109, includes/elementor/widgets/rt-hero-section-2.php:420, includes/elementor/widgets/rt-hero-section.php:435
+msgid "List Item #1"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:110, includes/elementor/widgets/rt-hero-section-2.php:421, includes/elementor/widgets/rt-hero-section.php:436
+msgid "List Item #2"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:111, includes/elementor/widgets/rt-hero-section-2.php:422, includes/elementor/widgets/rt-hero-section.php:437
+msgid "List Item #3"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:125
+msgid "List"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:133, includes/elementor/widgets/rt-hero-section-2.php:821, includes/elementor/widgets/rt-hero-section.php:836
+msgid "Gap Items"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:174, includes/elementor/widgets/rt-hero-section-2.php:862, includes/elementor/widgets/rt-hero-section.php:877
+msgid "Divider"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:177, includes/elementor/header/rt-header-menu.php:96, includes/elementor/includes/carousel_settings.php:77, includes/elementor/includes/carousel_settings.php:143, includes/elementor/includes/carousel_settings.php:158, includes/elementor/includes/carousel_settings.php:188, includes/elementor/includes/carousel_settings.php:202, includes/elementor/includes/carousel_settings.php:216, includes/elementor/includes/carousel_settings.php:230, includes/elementor/includes/carousel_settings.php:252, includes/elementor/includes/carousel_settings.php:347, includes/elementor/includes/carousel_settings.php:395, includes/elementor/includes/carousel_settings.php:596, includes/elementor/includes/feedback_settings.php:82, includes/elementor/includes/feedback_settings.php:148, includes/elementor/includes/feedback_settings.php:163, includes/elementor/includes/feedback_settings.php:193, includes/elementor/includes/feedback_settings.php:207, includes/elementor/includes/feedback_settings.php:221, includes/elementor/includes/feedback_settings.php:235, includes/elementor/includes/feedback_settings.php:257, includes/elementor/includes/feedback_settings.php:352, includes/elementor/includes/feedback_settings.php:400, includes/elementor/includes/feedback_settings.php:601, includes/elementor/includes/slider_settings.php:77, includes/elementor/includes/slider_settings.php:143, includes/elementor/includes/slider_settings.php:158, includes/elementor/includes/slider_settings.php:188, includes/elementor/includes/slider_settings.php:202, includes/elementor/includes/slider_settings.php:216, includes/elementor/includes/slider_settings.php:230, includes/elementor/includes/slider_settings.php:252, includes/elementor/includes/slider_settings.php:347, includes/elementor/includes/slider_settings.php:395, includes/elementor/includes/slider_settings.php:596, includes/elementor/modules/rt-section.php:944, includes/elementor/modules/rt-section.php:1193, includes/elementor/modules/rt-section.php:1251, includes/elementor/widgets/rt-blog.php:454, includes/elementor/widgets/rt-cat-box.php:269, includes/elementor/widgets/rt-cat-box.php:286, includes/elementor/widgets/rt-countdown.php:128, includes/elementor/widgets/rt-countdown.php:138, includes/elementor/widgets/rt-countdown.php:148, includes/elementor/widgets/rt-countdown.php:158, includes/elementor/widgets/rt-countdown.php:168, includes/elementor/widgets/rt-countdown.php:180, includes/elementor/widgets/rt-courses-ld.php:446, includes/elementor/widgets/rt-courses-ld.php:467, includes/elementor/widgets/rt-courses-tutor.php:338, includes/elementor/widgets/rt-courses-tutor.php:359, includes/elementor/widgets/rt-courses.php:349, includes/elementor/widgets/rt-courses.php:370, includes/elementor/widgets/rt-gallery.php:344, includes/elementor/widgets/rt-gallery.php:366, includes/elementor/widgets/rt-gallery.php:376, includes/elementor/widgets/rt-gallery.php:387, includes/elementor/widgets/rt-gallery.php:397, includes/elementor/widgets/rt-gallery.php:478, includes/elementor/widgets/rt-gallery.php:509, includes/elementor/widgets/rt-hero-section-2.php:865, includes/elementor/widgets/rt-hero-section.php:880, includes/elementor/widgets/rt-info-box.php:330, includes/elementor/widgets/rt-info-box.php:347, includes/elementor/widgets/rt-satellite-service.php:137, includes/elementor/widgets/rt-satellite-service.php:159, includes/elementor/widgets/rt-video-popup.php:271, includes/elementor/widgets/rt-video-popup.php:450
+msgid "Off"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:178, includes/elementor/header/rt-header-menu.php:95, includes/elementor/includes/carousel_settings.php:76, includes/elementor/includes/carousel_settings.php:142, includes/elementor/includes/carousel_settings.php:157, includes/elementor/includes/carousel_settings.php:187, includes/elementor/includes/carousel_settings.php:201, includes/elementor/includes/carousel_settings.php:215, includes/elementor/includes/carousel_settings.php:229, includes/elementor/includes/carousel_settings.php:251, includes/elementor/includes/carousel_settings.php:346, includes/elementor/includes/carousel_settings.php:394, includes/elementor/includes/carousel_settings.php:595, includes/elementor/includes/feedback_settings.php:81, includes/elementor/includes/feedback_settings.php:147, includes/elementor/includes/feedback_settings.php:162, includes/elementor/includes/feedback_settings.php:192, includes/elementor/includes/feedback_settings.php:206, includes/elementor/includes/feedback_settings.php:220, includes/elementor/includes/feedback_settings.php:234, includes/elementor/includes/feedback_settings.php:256, includes/elementor/includes/feedback_settings.php:351, includes/elementor/includes/feedback_settings.php:399, includes/elementor/includes/feedback_settings.php:600, includes/elementor/includes/slider_settings.php:76, includes/elementor/includes/slider_settings.php:142, includes/elementor/includes/slider_settings.php:157, includes/elementor/includes/slider_settings.php:187, includes/elementor/includes/slider_settings.php:201, includes/elementor/includes/slider_settings.php:215, includes/elementor/includes/slider_settings.php:229, includes/elementor/includes/slider_settings.php:251, includes/elementor/includes/slider_settings.php:346, includes/elementor/includes/slider_settings.php:394, includes/elementor/includes/slider_settings.php:595, includes/elementor/modules/rt-section.php:943, includes/elementor/modules/rt-section.php:1192, includes/elementor/modules/rt-section.php:1250, includes/elementor/widgets/rt-blog.php:453, includes/elementor/widgets/rt-cat-box.php:268, includes/elementor/widgets/rt-cat-box.php:285, includes/elementor/widgets/rt-countdown.php:127, includes/elementor/widgets/rt-countdown.php:137, includes/elementor/widgets/rt-countdown.php:147, includes/elementor/widgets/rt-countdown.php:157, includes/elementor/widgets/rt-countdown.php:167, includes/elementor/widgets/rt-countdown.php:179, includes/elementor/widgets/rt-courses-ld.php:445, includes/elementor/widgets/rt-courses-ld.php:466, includes/elementor/widgets/rt-courses-tutor.php:337, includes/elementor/widgets/rt-courses-tutor.php:358, includes/elementor/widgets/rt-courses.php:348, includes/elementor/widgets/rt-courses.php:369, includes/elementor/widgets/rt-gallery.php:343, includes/elementor/widgets/rt-gallery.php:365, includes/elementor/widgets/rt-gallery.php:375, includes/elementor/widgets/rt-gallery.php:386, includes/elementor/widgets/rt-gallery.php:396, includes/elementor/widgets/rt-gallery.php:477, includes/elementor/widgets/rt-gallery.php:508, includes/elementor/widgets/rt-hero-section-2.php:866, includes/elementor/widgets/rt-hero-section.php:881, includes/elementor/widgets/rt-info-box.php:329, includes/elementor/widgets/rt-info-box.php:346, includes/elementor/widgets/rt-satellite-service.php:136, includes/elementor/widgets/rt-satellite-service.php:158, includes/elementor/widgets/rt-video-popup.php:270, includes/elementor/widgets/rt-video-popup.php:449
+msgid "On"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:188, includes/elementor/header/rt-header-login_join.php:150, includes/elementor/header/rt-header-lp_login.php:97, includes/elementor/header/rt-header-wc_login.php:97, includes/elementor/widgets/rt-cf-seven.php:145, includes/elementor/widgets/rt-countdown.php:216, includes/elementor/widgets/rt-feedback.php:51, includes/elementor/widgets/rt-hero-section-2.php:433, includes/elementor/widgets/rt-hero-section-2.php:876, includes/elementor/widgets/rt-hero-section.php:448, includes/elementor/widgets/rt-hero-section.php:891, includes/elementor/widgets/rt-team.php:52, includes/elementor/widgets/rt-toggle-accordion.php:103
+msgid "Style"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:192, includes/elementor/widgets/rt-hero-section-2.php:880, includes/elementor/widgets/rt-hero-section.php:895, includes/elementor/widgets/rt-satellite-service.php:322
+msgid "Solid"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:193, includes/elementor/widgets/rt-hero-section-2.php:881, includes/elementor/widgets/rt-hero-section.php:896, includes/elementor/widgets/rt-satellite-service.php:323
+msgid "Double"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:194, includes/elementor/widgets/rt-hero-section-2.php:882, includes/elementor/widgets/rt-hero-section.php:897, includes/elementor/widgets/rt-satellite-service.php:324
+msgid "Dotted"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:195, includes/elementor/widgets/rt-hero-section-2.php:883, includes/elementor/widgets/rt-hero-section.php:898, includes/elementor/widgets/rt-satellite-service.php:325
+msgid "Dashed"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:207, includes/elementor/widgets/rt-hero-section-2.php:895, includes/elementor/widgets/rt-hero-section.php:910
+msgid "Weight"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:223, includes/elementor/header/rt-header-menu.php:144, includes/elementor/header/rt-header-search.php:98, includes/elementor/modules/rt-section.php:711, includes/elementor/modules/rt-section.php:929, includes/elementor/modules/rt-section.php:1177, includes/elementor/widgets/rt-cf-seven.php:416, includes/elementor/widgets/rt-cf-seven.php:529, includes/elementor/widgets/rt-cf-seven.php:657, includes/elementor/widgets/rt-hero-section-2.php:641, includes/elementor/widgets/rt-hero-section-2.php:911, includes/elementor/widgets/rt-hero-section.php:656, includes/elementor/widgets/rt-hero-section.php:926, includes/elementor/widgets/rt-wpforms.php:461, includes/elementor/widgets/rt-wpforms.php:574, includes/elementor/widgets/rt-wpforms.php:706
+msgid "Height"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:241, includes/elementor/header/rt-header-list_info.php:276, includes/elementor/header/rt-header-list_info.php:310, includes/elementor/header/rt-header-list_info.php:387, includes/elementor/header/rt-header-list_info.php:406, includes/elementor/header/rt-header-login_join.php:190, includes/elementor/header/rt-header-login_join.php:210, includes/elementor/header/rt-header-login_join.php:250, includes/elementor/header/rt-header-login_join.php:293, includes/elementor/header/rt-header-lp_login.php:137, includes/elementor/header/rt-header-lp_login.php:189, includes/elementor/header/rt-header-wc_login.php:137, includes/elementor/header/rt-header-wc_login.php:189, includes/elementor/includes/carousel_settings.php:354, includes/elementor/includes/feedback_settings.php:359, includes/elementor/includes/slider_settings.php:354, includes/elementor/modules/rt-section.php:333, includes/elementor/modules/rt-section.php:698, includes/elementor/modules/rt-section.php:1036, includes/elementor/widgets/rt-accordion-service.php:414, includes/elementor/widgets/rt-accordion-service.php:507, includes/elementor/widgets/rt-accordion-service.php:577, includes/elementor/widgets/rt-accordion-service.php:667, includes/elementor/widgets/rt-accordion-service.php:708, includes/elementor/widgets/rt-cat-box.php:478, includes/elementor/widgets/rt-cat-box.php:525, includes/elementor/widgets/rt-cat-item.php:240, includes/elementor/widgets/rt-cf-seven.php:262, includes/elementor/widgets/rt-cf-seven.php:321, includes/elementor/widgets/rt-cf-seven.php:393, includes/elementor/widgets/rt-cf-seven.php:506, includes/elementor/widgets/rt-cf-seven.php:684, includes/elementor/widgets/rt-cf-seven.php:773, includes/elementor/widgets/rt-counter.php:458, includes/elementor/widgets/rt-counter.php:523, includes/elementor/widgets/rt-feedback.php:628, includes/elementor/widgets/rt-feedback.php:679, includes/elementor/widgets/rt-feedback.php:731, includes/elementor/widgets/rt-feedback.php:796, includes/elementor/widgets/rt-feedback.php:892, includes/elementor/widgets/rt-hero-section-2.php:929, includes/elementor/widgets/rt-hero-section-2.php:950, includes/elementor/widgets/rt-hero-section-2.php:983, includes/elementor/widgets/rt-hero-section-2.php:1046, includes/elementor/widgets/rt-hero-section-2.php:1065, includes/elementor/widgets/rt-hero-section.php:944, includes/elementor/widgets/rt-hero-section.php:965, includes/elementor/widgets/rt-hero-section.php:998, includes/elementor/widgets/rt-hero-section.php:1061, includes/elementor/widgets/rt-hero-section.php:1080, includes/elementor/widgets/rt-info-box.php:507, includes/elementor/widgets/rt-info-box.php:554, includes/elementor/widgets/rt-info-box.php:1141, includes/elementor/widgets/rt-info-box.php:1160, includes/elementor/widgets/rt-progress-bar.php:127, includes/elementor/widgets/rt-satellite-service.php:497, includes/elementor/widgets/rt-satellite-service.php:519, includes/elementor/widgets/rt-satellite-service.php:623, includes/elementor/widgets/rt-satellite-service.php:645, includes/elementor/widgets/rt-satellite-service.php:740, includes/elementor/widgets/rt-satellite-service.php:791, includes/elementor/widgets/rt-wpforms.php:235, includes/elementor/widgets/rt-wpforms.php:296, includes/elementor/widgets/rt-wpforms.php:366, includes/elementor/widgets/rt-wpforms.php:438, includes/elementor/widgets/rt-wpforms.php:551, includes/elementor/widgets/rt-wpforms.php:733, includes/elementor/widgets/rt-wpforms.php:822
+msgid "Color"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:290, includes/elementor/widgets/rt-hero-section-2.php:963, includes/elementor/widgets/rt-hero-section.php:978
+msgid "Stacked Color"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:327, includes/elementor/widgets/rt-accordion-service.php:162, includes/elementor/widgets/rt-button-widget.php:114, includes/elementor/widgets/rt-hero-section-2.php:1000, includes/elementor/widgets/rt-hero-section.php:1015, includes/elementor/widgets/rt-satellite-service.php:264
+msgid "Size"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:344, includes/elementor/widgets/rt-hero-section-2.php:1017, includes/elementor/widgets/rt-hero-section.php:1032
+msgid "Gap Icons"
+msgstr ""
+
+#: includes/elementor/header/rt-header-list_info.php:421, includes/elementor/modules/rt-section.php:314, includes/elementor/widgets/rt-hero-section-2.php:1080, includes/elementor/widgets/rt-hero-section.php:1095
+msgid "Text Indent"
+msgstr ""
+
+#: includes/elementor/header/rt-header-login_join.php:25
+msgid "Login/Join Button"
+msgstr ""
+
+#: includes/elementor/header/rt-header-login_join.php:45
+msgid "Login/Join"
+msgstr ""
+
+#: includes/elementor/header/rt-header-login_join.php:52, includes/elementor/header/rt-header-lp_login.php:52, includes/elementor/header/rt-header-wc_login.php:52, includes/elementor/widgets/rt-accordion-service.php:300, includes/elementor/widgets/rt-blog.php:275, includes/elementor/widgets/rt-button-widget.php:68, includes/elementor/widgets/rt-cat-box.php:244, includes/elementor/widgets/rt-hero-section-2.php:335, includes/elementor/widgets/rt-hero-section.php:343, includes/elementor/widgets/rt-info-box.php:270, includes/elementor/widgets/rt-pricing-table.php:170, includes/elementor/widgets/rt-satellite-service.php:166
+msgid "Button Text"
+msgstr ""
+
+#: includes/elementor/header/rt-header-login_join.php:65, includes/elementor/header/rt-header-lp_login.php:65, includes/elementor/header/rt-header-wc_login.php:65
+msgid "Login Text"
+msgstr ""
+
+#: includes/elementor/header/rt-header-login_join.php:68, includes/elementor/header/rt-header-login_join.php:172
+msgid "Login"
+msgstr ""
+
+#: includes/elementor/header/rt-header-login_join.php:75
+msgid "Login Page URL"
+msgstr ""
+
+#: includes/elementor/header/rt-header-login_join.php:85, includes/elementor/header/rt-header-login_join.php:88
+msgid "Join Now"
+msgstr ""
+
+#: includes/elementor/header/rt-header-login_join.php:94
+msgid "Join Page URL"
+msgstr ""
+
+#: includes/elementor/header/rt-header-login_join.php:104, includes/elementor/header/rt-header-login_join.php:107
+msgid "Profile"
+msgstr ""
+
+#: includes/elementor/header/rt-header-login_join.php:113
+msgid "Profile Page URL"
+msgstr ""
+
+#: includes/elementor/header/rt-header-login_join.php:123, includes/elementor/header/rt-header-lp_login.php:78, includes/elementor/header/rt-header-wc_login.php:78
+msgid "Logout Text"
+msgstr ""
+
+#: includes/elementor/header/rt-header-login_join.php:126
+msgid "Logout"
+msgstr ""
+
+#: includes/elementor/header/rt-header-login_join.php:134
+msgid "LearnDash PopUp Login"
+msgstr ""
+
+#: includes/elementor/header/rt-header-login_join.php:232
+msgid "Join/Logout"
+msgstr ""
+
+#: includes/elementor/header/rt-header-login_join.php:264, includes/elementor/header/rt-header-login_join.php:307, includes/elementor/header/rt-header-lp_login.php:150, includes/elementor/header/rt-header-lp_login.php:202, includes/elementor/header/rt-header-wc_login.php:150, includes/elementor/header/rt-header-wc_login.php:202, includes/elementor/widgets/rt-blog.php:754, includes/elementor/widgets/rt-blog.php:1141, includes/elementor/widgets/rt-blog.php:1165, includes/elementor/widgets/rt-cat-box.php:1044, includes/elementor/widgets/rt-cat-box.php:1076, includes/elementor/widgets/rt-cf-seven.php:152, includes/elementor/widgets/rt-counter.php:400, includes/elementor/widgets/rt-hero-section-2.php:441, includes/elementor/widgets/rt-hero-section.php:456, includes/elementor/widgets/rt-info-box.php:1124, includes/elementor/widgets/rt-info-box.php:1299, includes/elementor/widgets/rt-pricing-table.php:748, includes/elementor/widgets/rt-pricing-table.php:792, includes/elementor/widgets/rt-satellite-service.php:596, includes/elementor/widgets/rt-wpforms.php:354
+msgid "Background"
+msgstr ""
+
+#: includes/elementor/header/rt-header-login_join.php:332, includes/elementor/header/rt-header-lp_login.php:113, includes/elementor/header/rt-header-menu.php:511, includes/elementor/header/rt-header-search.php:249, includes/elementor/header/rt-header-wc_login.php:113, includes/elementor/widgets/rt-accordion-service.php:351, includes/elementor/widgets/rt-accordion-service.php:622, includes/elementor/widgets/rt-blog.php:1048, includes/elementor/widgets/rt-blog.php:1211, includes/elementor/widgets/rt-blog.php:1361, includes/elementor/widgets/rt-button-widget.php:346, includes/elementor/widgets/rt-cat-box.php:431, includes/elementor/widgets/rt-cat-box.php:955, includes/elementor/widgets/rt-cat-box.php:1101, includes/elementor/widgets/rt-cf-seven.php:201, includes/elementor/widgets/rt-cf-seven.php:285, includes/elementor/widgets/rt-cf-seven.php:344, includes/elementor/widgets/rt-cf-seven.php:435, includes/elementor/widgets/rt-cf-seven.php:548, includes/elementor/widgets/rt-cf-seven.php:708, includes/elementor/widgets/rt-counter.php:213, includes/elementor/widgets/rt-counter.php:375, includes/elementor/widgets/rt-courses-ld.php:855, includes/elementor/widgets/rt-courses-tutor.php:746, includes/elementor/widgets/rt-courses.php:758, includes/elementor/widgets/rt-double-headings.php:344, includes/elementor/widgets/rt-feedback.php:653, includes/elementor/widgets/rt-feedback.php:704, includes/elementor/widgets/rt-feedback.php:756, includes/elementor/widgets/rt-hero-section-2.php:549, includes/elementor/widgets/rt-hero-section.php:564, includes/elementor/widgets/rt-info-box.php:460, includes/elementor/widgets/rt-info-box.php:1111, includes/elementor/widgets/rt-info-box.php:1209, includes/elementor/widgets/rt-pricing-table.php:252, includes/elementor/widgets/rt-pricing-table.php:353, includes/elementor/widgets/rt-pricing-table.php:411, includes/elementor/widgets/rt-pricing-table.php:459, includes/elementor/widgets/rt-pricing-table.php:527, includes/elementor/widgets/rt-pricing-table.php:729, includes/elementor/widgets/rt-pricing-table.php:833, includes/elementor/widgets/rt-progress-bar.php:310, includes/elementor/widgets/rt-satellite-service.php:682, includes/elementor/widgets/rt-satellite-service.php:845, includes/elementor/widgets/rt-tabs.php:261, includes/elementor/widgets/rt-tabs.php:691, includes/elementor/widgets/rt-team.php:347, includes/elementor/widgets/rt-toggle-accordion.php:322, includes/elementor/widgets/rt-toggle-accordion.php:697, includes/elementor/widgets/rt-toggle-accordion.php:907, includes/elementor/widgets/rt-video-popup.php:244, includes/elementor/widgets/rt-wpforms.php:258, includes/elementor/widgets/rt-wpforms.php:319, includes/elementor/widgets/rt-wpforms.php:389, includes/elementor/widgets/rt-wpforms.php:480, includes/elementor/widgets/rt-wpforms.php:593, includes/elementor/widgets/rt-wpforms.php:757
+msgid "Padding"
+msgstr ""
+
+#: includes/elementor/header/rt-header-logo.php:26
+msgid "RT Logo"
+msgstr ""
+
+#: includes/elementor/header/rt-header-logo.php:53
+msgid "Use Custom Logo?"
+msgstr ""
+
+#: includes/elementor/header/rt-header-logo.php:61, includes/elementor/modules/rt-section.php:69, includes/elementor/modules/rt-section.php:115
+msgid "Custom Logo"
+msgstr ""
+
+#: includes/elementor/header/rt-header-logo.php:72, includes/elementor/modules/rt-section.php:80, includes/elementor/modules/rt-section.php:126
+msgid "Enable Logo Height?"
+msgstr ""
+
+#: includes/elementor/header/rt-header-logo.php:81, includes/elementor/modules/rt-section.php:89, includes/elementor/modules/rt-section.php:135
+msgid "Logo Height"
+msgstr ""
+
+#: includes/elementor/header/rt-header-lp_login.php:25
+msgid "RT Lp Login Button"
+msgstr ""
+
+#: includes/elementor/header/rt-header-lp_login.php:45
+msgid "Lp Login"
+msgstr ""
+
+#: includes/elementor/header/rt-header-lp_login.php:68, includes/elementor/header/rt-header-lp_login.php:246
+msgid "LP LOGIN"
+msgstr ""
+
+#: includes/elementor/header/rt-header-lp_login.php:81, includes/elementor/header/rt-header-lp_login.php:245
+msgid "LP LOGOUT"
+msgstr ""
+
+#: includes/elementor/header/rt-header-menu.php:28
+msgid "RT Menu"
+msgstr ""
+
+#: includes/elementor/header/rt-header-menu.php:62
+msgid "Template"
+msgstr ""
+
+#: includes/elementor/header/rt-header-menu.php:65, includes/elementor/widgets/rt-cat-box.php:1055, includes/elementor/widgets/rt-info-box.php:1310
+msgid "Theme Default"
+msgstr ""
+
+#: includes/elementor/header/rt-header-menu.php:75, includes/elementor/header/rt-header-menu.php:229
+msgid "Menu"
+msgstr ""
+
+#: includes/elementor/header/rt-header-menu.php:85
+msgid "Disable Submenu"
+msgstr ""
+
+#: includes/elementor/header/rt-header-menu.php:93
+msgid "Lavalamp Marker"
+msgstr ""
+
+#: includes/elementor/header/rt-header-menu.php:104, includes/elementor/modules/rt-section.php:917, includes/elementor/modules/rt-section.php:1164, includes/elementor/widgets/rt-cat-box.php:601, includes/elementor/widgets/rt-cf-seven.php:637, includes/elementor/widgets/rt-hero-section-2.php:615, includes/elementor/widgets/rt-hero-section.php:630, includes/elementor/widgets/rt-info-box.php:630, includes/elementor/widgets/rt-satellite-service.php:280, includes/elementor/widgets/rt-wpforms.php:682
+msgid "Width"
+msgstr ""
+
+#: includes/elementor/header/rt-header-menu.php:113
+msgid "Display"
+msgstr ""
+
+#: includes/elementor/header/rt-header-menu.php:116
+msgid "Inline-Flex"
+msgstr ""
+
+#: includes/elementor/header/rt-header-menu.php:117
+msgid "Block"
+msgstr ""
+
+#: includes/elementor/header/rt-header-menu.php:129
+msgid "Flex Grow"
+msgstr ""
+
+#: includes/elementor/header/rt-header-menu.php:153
+msgid "Module Height (px)"
+msgstr ""
+
+#: includes/elementor/header/rt-header-menu.php:245
+msgid "Items Padding"
+msgstr ""
+
+#: includes/elementor/header/rt-header-menu.php:267, includes/elementor/header/rt-header-menu.php:299, includes/elementor/header/rt-header-menu.php:332, includes/elementor/header/rt-header-menu.php:400, includes/elementor/header/rt-header-menu.php:432, includes/elementor/header/rt-header-menu.php:465, includes/elementor/widgets/rt-blog.php:896, includes/elementor/widgets/rt-blog.php:916, includes/elementor/widgets/rt-blog.php:966, includes/elementor/widgets/rt-blog.php:1079, includes/elementor/widgets/rt-blog.php:1098, includes/elementor/widgets/rt-blog.php:1233, includes/elementor/widgets/rt-blog.php:1264, includes/elementor/widgets/rt-blog.php:1383, includes/elementor/widgets/rt-blog.php:1433, includes/elementor/widgets/rt-button-widget.php:186, includes/elementor/widgets/rt-button-widget.php:255, includes/elementor/widgets/rt-cat-box.php:977, includes/elementor/widgets/rt-cat-box.php:1010, includes/elementor/widgets/rt-countdown.php:274, includes/elementor/widgets/rt-courses-ld.php:939, includes/elementor/widgets/rt-courses-ld.php:959, includes/elementor/widgets/rt-courses-ld.php:1009, includes/elementor/widgets/rt-courses-ld.php:1044, includes/elementor/widgets/rt-courses-ld.php:1118, includes/elementor/widgets/rt-courses-tutor.php:830, includes/elementor/widgets/rt-courses-tutor.php:850, includes/elementor/widgets/rt-courses-tutor.php:900, includes/elementor/widgets/rt-courses-tutor.php:935, includes/elementor/widgets/rt-courses-tutor.php:1024, includes/elementor/widgets/rt-courses.php:842, includes/elementor/widgets/rt-courses.php:862, includes/elementor/widgets/rt-courses.php:912, includes/elementor/widgets/rt-courses.php:947, includes/elementor/widgets/rt-courses.php:1021, includes/elementor/widgets/rt-double-headings.php:191, includes/elementor/widgets/rt-double-headings.php:224, includes/elementor/widgets/rt-double-headings.php:257, includes/elementor/widgets/rt-gallery.php:943, includes/elementor/widgets/rt-gallery.php:962, includes/elementor/widgets/rt-gallery.php:1022, includes/elementor/widgets/rt-gallery.php:1041, includes/elementor/widgets/rt-info-box.php:939, includes/elementor/widgets/rt-info-box.php:959, includes/elementor/widgets/rt-info-box.php:1023, includes/elementor/widgets/rt-info-box.php:1043, includes/elementor/widgets/rt-info-box.php:1231, includes/elementor/widgets/rt-info-box.php:1264, includes/elementor/widgets/rt-pricing-table.php:214, includes/elementor/widgets/rt-pricing-table.php:340, includes/elementor/widgets/rt-pricing-table.php:398, includes/elementor/widgets/rt-pricing-table.php:446, includes/elementor/widgets/rt-pricing-table.php:514, includes/elementor/widgets/rt-pricing-table.php:569, includes/elementor/widgets/rt-pricing-table.php:624, includes/elementor/widgets/rt-progress-bar.php:175, includes/elementor/widgets/rt-social-icons.php:176, includes/elementor/widgets/rt-social-icons.php:217, includes/elementor/widgets/rt-tabs.php:310, includes/elementor/widgets/rt-tabs.php:385, includes/elementor/widgets/rt-tabs.php:460, includes/elementor/widgets/rt-toggle-accordion.php:600, includes/elementor/widgets/rt-toggle-accordion.php:619, includes/elementor/widgets/rt-toggle-accordion.php:639, includes/elementor/widgets/rt-toggle-accordion.php:939
+msgid "Text Color"
+msgstr ""
+
+#: includes/elementor/header/rt-header-menu.php:326, includes/elementor/header/rt-header-menu.php:459, includes/elementor/header/rt-header-search.php:203, includes/elementor/widgets/rt-feedback.php:1047, includes/elementor/widgets/rt-tabs.php:454, includes/elementor/widgets/rt-tabs.php:648, includes/elementor/widgets/rt-toggle-accordion.php:495, includes/elementor/widgets/rt-toggle-accordion.php:633, includes/elementor/widgets/rt-toggle-accordion.php:833
+msgid "Active"
+msgstr ""
+
+#: includes/elementor/header/rt-header-menu.php:366
+msgid "Submenu"
+msgstr ""
+
+#: includes/elementor/header/rt-header-menu.php:531
+msgid "Lavalamp"
+msgstr ""
+
+#: includes/elementor/header/rt-header-menu.php:540
+msgid "Lavalamp Color"
+msgstr ""
+
+#: includes/elementor/header/rt-header-search.php:27
+msgid "RT Search"
+msgstr ""
+
+#: includes/elementor/header/rt-header-search.php:86
+msgid "Full Height"
+msgstr ""
+
+#: includes/elementor/header/rt-header-search.php:118, includes/elementor/widgets/rt-hero-section-2.php:314, includes/elementor/widgets/rt-hero-section-2.php:565, includes/elementor/widgets/rt-hero-section.php:314, includes/elementor/widgets/rt-hero-section.php:321, includes/elementor/widgets/rt-hero-section.php:580
+msgid "Search"
+msgstr ""
+
+#: includes/elementor/header/rt-header-search.php:158, includes/elementor/header/rt-header-search.php:190, includes/elementor/header/rt-header-search.php:221, includes/elementor/widgets/rt-accordion-service.php:93, includes/elementor/widgets/rt-accordion-service.php:369, includes/elementor/widgets/rt-accordion-service.php:680, includes/elementor/widgets/rt-accordion-service.php:721, includes/elementor/widgets/rt-blog.php:1395, includes/elementor/widgets/rt-blog.php:1445, includes/elementor/widgets/rt-button-widget.php:199, includes/elementor/widgets/rt-button-widget.php:269, includes/elementor/widgets/rt-cf-seven.php:381, includes/elementor/widgets/rt-cf-seven.php:494, includes/elementor/widgets/rt-cf-seven.php:696, includes/elementor/widgets/rt-cf-seven.php:785, includes/elementor/widgets/rt-counter.php:244, includes/elementor/widgets/rt-counter.php:280, includes/elementor/widgets/rt-courses-ld.php:1131, includes/elementor/widgets/rt-courses-tutor.php:1037, includes/elementor/widgets/rt-courses.php:1034, includes/elementor/widgets/rt-feedback.php:830, includes/elementor/widgets/rt-feedback.php:904, includes/elementor/widgets/rt-pricing-table.php:227, includes/elementor/widgets/rt-pricing-table.php:582, includes/elementor/widgets/rt-pricing-table.php:637, includes/elementor/widgets/rt-progress-bar.php:188, includes/elementor/widgets/rt-satellite-service.php:728, includes/elementor/widgets/rt-satellite-service.php:779, includes/elementor/widgets/rt-satellite-service.php:878, includes/elementor/widgets/rt-satellite-service.php:916, includes/elementor/widgets/rt-social-icons.php:188, includes/elementor/widgets/rt-social-icons.php:229, includes/elementor/widgets/rt-social-icons.php:386, includes/elementor/widgets/rt-social-icons.php:435, includes/elementor/widgets/rt-tabs.php:335, includes/elementor/widgets/rt-tabs.php:397, includes/elementor/widgets/rt-tabs.php:472, includes/elementor/widgets/rt-toggle-accordion.php:373, includes/elementor/widgets/rt-toggle-accordion.php:440, includes/elementor/widgets/rt-toggle-accordion.php:513, includes/elementor/widgets/rt-toggle-accordion.php:752, includes/elementor/widgets/rt-toggle-accordion.php:802, includes/elementor/widgets/rt-toggle-accordion.php:852, includes/elementor/widgets/rt-toggle-accordion.php:951, includes/elementor/widgets/rt-wpforms.php:426, includes/elementor/widgets/rt-wpforms.php:539, includes/elementor/widgets/rt-wpforms.php:745, includes/elementor/widgets/rt-wpforms.php:834
+msgid "Background Color"
+msgstr ""
+
+#: includes/elementor/header/rt-header-search.php:261, includes/elementor/widgets/rt-accordion-service.php:639, includes/elementor/widgets/rt-blog.php:1488, includes/elementor/widgets/rt-button-widget.php:334, includes/elementor/widgets/rt-cat-box.php:351, includes/elementor/widgets/rt-cat-box.php:455, includes/elementor/widgets/rt-cf-seven.php:471, includes/elementor/widgets/rt-cf-seven.php:582, includes/elementor/widgets/rt-cf-seven.php:743, includes/elementor/widgets/rt-counter.php:225, includes/elementor/widgets/rt-counter.php:387, includes/elementor/widgets/rt-double-headings.php:375, includes/elementor/widgets/rt-feedback.php:849, includes/elementor/widgets/rt-feedback.php:924, includes/elementor/widgets/rt-gallery.php:707, includes/elementor/widgets/rt-gallery.php:769, includes/elementor/widgets/rt-hero-section-2.php:677, includes/elementor/widgets/rt-hero-section.php:692, includes/elementor/widgets/rt-info-box.php:484, includes/elementor/widgets/rt-pricing-table.php:270, includes/elementor/widgets/rt-pricing-table.php:697, includes/elementor/widgets/rt-pricing-table.php:852, includes/elementor/widgets/rt-progress-bar.php:212, includes/elementor/widgets/rt-progress-bar.php:340, includes/elementor/widgets/rt-satellite-service.php:706, includes/elementor/widgets/rt-satellite-service.php:857, includes/elementor/widgets/rt-social-icons.php:534, includes/elementor/widgets/rt-tabs.php:346, includes/elementor/widgets/rt-tabs.php:421, includes/elementor/widgets/rt-tabs.php:496, includes/elementor/widgets/rt-tabs.php:747, includes/elementor/widgets/rt-toggle-accordion.php:385, includes/elementor/widgets/rt-toggle-accordion.php:452, includes/elementor/widgets/rt-toggle-accordion.php:525, includes/elementor/widgets/rt-toggle-accordion.php:720, includes/elementor/widgets/rt-toggle-accordion.php:963, includes/elementor/widgets/rt-wpforms.php:516, includes/elementor/widgets/rt-wpforms.php:627, includes/elementor/widgets/rt-wpforms.php:792
+msgid "Border Radius"
+msgstr ""
+
+#: includes/elementor/header/rt-header-search.php:276
+msgid "Type To Search"
+msgstr ""
+
+#: includes/elementor/header/rt-header-side_panel.php:25
+msgid "RT Side Panel Button"
+msgstr ""
+
+#: includes/elementor/header/rt-header-side_panel.php:45
+msgid "Side Panel"
+msgstr ""
+
+#: includes/elementor/header/rt-header-side_panel.php:52
+msgid "Item Width"
+msgstr ""
+
+#: includes/elementor/header/rt-header-side_panel.php:68, includes/elementor/widgets/rt-feedback.php:345
+msgid "Item Height"
+msgstr ""
+
+#: includes/elementor/header/rt-header-side_panel.php:137, includes/elementor/header/rt-header-side_panel.php:170
+msgid "Item Background"
+msgstr ""
+
+#: includes/elementor/header/rt-header-wc_login.php:25
+msgid "RT Wc Login Button"
+msgstr ""
+
+#: includes/elementor/header/rt-header-wc_login.php:45
+msgid "Wc Login"
+msgstr ""
+
+#: includes/elementor/header/rt-header-wc_login.php:68, includes/elementor/header/rt-header-wc_login.php:245
+msgid "WC LOGIN"
+msgstr ""
+
+#: includes/elementor/header/rt-header-wc_login.php:81, includes/elementor/header/rt-header-wc_login.php:244
+msgid "WC LOGOUT"
+msgstr ""
+
+#: includes/elementor/header/rt-header-wpml.php:24
+msgid "WPML Selector"
+msgstr ""
+
+#: includes/elementor/header/rt-header-wpml.php:47
+msgid "WPML Settings"
+msgstr ""
+
+#: includes/elementor/header/rt-header-wpml.php:54
+msgid "WPML Height"
+msgstr ""
+
+#: includes/elementor/header/rt-header-wpml.php:59, includes/elementor/widgets/rt-satellite-service.php:390
+msgid "Enter value in pixels"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:43, includes/elementor/includes/feedback_settings.php:44, includes/elementor/widgets/rt-blog.php:443, includes/elementor/widgets/rt-courses-ld.php:435, includes/elementor/widgets/rt-courses-tutor.php:327, includes/elementor/widgets/rt-courses.php:338
+msgid "Carousel Options"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:49, includes/elementor/includes/feedback_settings.php:50
+msgid "Use Carousel"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:57, includes/elementor/includes/feedback_settings.php:62, includes/elementor/includes/slider_settings.php:57
+msgid "Inner Padding"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:73, includes/elementor/includes/feedback_settings.php:78, includes/elementor/includes/slider_settings.php:73, includes/elementor/widgets/rt-courses-ld.php:464, includes/elementor/widgets/rt-courses-tutor.php:356, includes/elementor/widgets/rt-courses.php:367
+msgid "Infinity on the Right"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:87, includes/elementor/includes/feedback_settings.php:92, includes/elementor/includes/slider_settings.php:87
+msgid "Motion Style"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:102
+msgid "Carousel Height"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:136, includes/elementor/includes/feedback_settings.php:141, includes/elementor/includes/slider_settings.php:136
+msgid "Rotation by Scroll"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:151, includes/elementor/includes/feedback_settings.php:156, includes/elementor/includes/slider_settings.php:151, includes/elementor/widgets/rt-blog.php:451, includes/elementor/widgets/rt-courses-ld.php:443, includes/elementor/widgets/rt-courses-tutor.php:335, includes/elementor/widgets/rt-courses.php:346, includes/elementor/widgets/rt-gallery.php:341
+msgid "Autoplay"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:165, includes/elementor/includes/feedback_settings.php:170, includes/elementor/includes/slider_settings.php:165, includes/elementor/widgets/rt-blog.php:461, includes/elementor/widgets/rt-courses-ld.php:453, includes/elementor/widgets/rt-courses-tutor.php:345, includes/elementor/widgets/rt-courses.php:356, includes/elementor/widgets/rt-gallery.php:352
+msgid "Autoplay Speed"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:180, includes/elementor/includes/feedback_settings.php:185, includes/elementor/includes/slider_settings.php:180, includes/elementor/widgets/rt-gallery.php:383
+msgid "Fade Animation"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:195, includes/elementor/includes/feedback_settings.php:200, includes/elementor/includes/slider_settings.php:195
+msgid "Slide per single item"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:209, includes/elementor/includes/feedback_settings.php:214, includes/elementor/includes/slider_settings.php:209
+msgid "Infinite Loop Sliding"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:223, includes/elementor/includes/feedback_settings.php:228, includes/elementor/includes/slider_settings.php:223
+msgid "Center Mode"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:245, includes/elementor/includes/feedback_settings.php:250, includes/elementor/includes/slider_settings.php:245, includes/elementor/widgets/rt-gallery.php:394
+msgid "Add Pagination control"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:259, includes/elementor/includes/feedback_settings.php:264, includes/elementor/includes/slider_settings.php:259, includes/elementor/widgets/rt-blog.php:497, includes/elementor/widgets/rt-courses-ld.php:507, includes/elementor/widgets/rt-courses-tutor.php:399, includes/elementor/widgets/rt-courses.php:410, includes/elementor/widgets/rt-gallery.php:404
+msgid "Pagination Type"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:268, includes/elementor/includes/feedback_settings.php:273, includes/elementor/includes/slider_settings.php:268, includes/elementor/widgets/rt-blog.php:502, includes/elementor/widgets/rt-cat-box.php:160, includes/elementor/widgets/rt-courses-ld.php:512, includes/elementor/widgets/rt-courses-tutor.php:404, includes/elementor/widgets/rt-courses.php:415, includes/elementor/widgets/rt-gallery.php:409, includes/elementor/widgets/rt-info-box.php:130, includes/elementor/widgets/rt-social-icons.php:292
+msgid "Circle"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:272, includes/elementor/includes/feedback_settings.php:277, includes/elementor/includes/slider_settings.php:272, includes/elementor/widgets/rt-blog.php:506, includes/elementor/widgets/rt-courses-ld.php:516, includes/elementor/widgets/rt-courses-tutor.php:408, includes/elementor/widgets/rt-courses.php:419, includes/elementor/widgets/rt-gallery.php:413
+msgid "Empty Circle"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:276, includes/elementor/includes/feedback_settings.php:281, includes/elementor/includes/slider_settings.php:276, includes/elementor/widgets/rt-blog.php:510, includes/elementor/widgets/rt-cat-box.php:161, includes/elementor/widgets/rt-courses-ld.php:520, includes/elementor/widgets/rt-courses-tutor.php:412, includes/elementor/widgets/rt-courses.php:423, includes/elementor/widgets/rt-gallery.php:417, includes/elementor/widgets/rt-info-box.php:131, includes/elementor/widgets/rt-social-icons.php:291
+msgid "Square"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:280, includes/elementor/includes/feedback_settings.php:285, includes/elementor/includes/slider_settings.php:280, includes/elementor/widgets/rt-blog.php:514, includes/elementor/widgets/rt-courses-ld.php:524, includes/elementor/widgets/rt-courses-tutor.php:416, includes/elementor/widgets/rt-courses.php:427, includes/elementor/widgets/rt-gallery.php:421
+msgid "Empty Square"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:284, includes/elementor/includes/feedback_settings.php:289, includes/elementor/includes/slider_settings.php:284, includes/elementor/widgets/rt-blog.php:518, includes/elementor/widgets/rt-courses-ld.php:528, includes/elementor/widgets/rt-courses-tutor.php:420, includes/elementor/widgets/rt-courses.php:431, includes/elementor/widgets/rt-gallery.php:425
+msgid "Line"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:288, includes/elementor/includes/feedback_settings.php:293, includes/elementor/includes/slider_settings.php:288, includes/elementor/widgets/rt-blog.php:522, includes/elementor/widgets/rt-courses-ld.php:532, includes/elementor/widgets/rt-courses-tutor.php:424, includes/elementor/widgets/rt-courses.php:435, includes/elementor/widgets/rt-gallery.php:429
+msgid "Line - Circle"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:299, includes/elementor/includes/feedback_settings.php:304, includes/elementor/includes/slider_settings.php:299, includes/elementor/widgets/rt-blog.php:533, includes/elementor/widgets/rt-courses-ld.php:543, includes/elementor/widgets/rt-courses-tutor.php:435, includes/elementor/widgets/rt-courses.php:446, includes/elementor/widgets/rt-gallery.php:440
+msgid "Pagination Aligning"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:320, includes/elementor/includes/feedback_settings.php:325, includes/elementor/includes/slider_settings.php:320, includes/elementor/widgets/rt-gallery.php:458
+msgid "Pagination Top Offset"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:339, includes/elementor/includes/feedback_settings.php:344, includes/elementor/includes/slider_settings.php:339, includes/elementor/widgets/rt-gallery.php:474
+msgid "Custom Pagination Color"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:391, includes/elementor/includes/feedback_settings.php:396, includes/elementor/includes/slider_settings.php:391, includes/elementor/widgets/rt-gallery.php:498
+msgid "Add Prev/Next buttons"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:402, includes/elementor/includes/feedback_settings.php:407, includes/elementor/includes/slider_settings.php:402
+msgid "Arrows Positioning"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:410, includes/elementor/includes/feedback_settings.php:415, includes/elementor/includes/slider_settings.php:410
+msgid "Opposite each other"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:411, includes/elementor/includes/feedback_settings.php:416, includes/elementor/includes/slider_settings.php:411
+msgid "Bottom right corner"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:420, includes/elementor/includes/feedback_settings.php:425, includes/elementor/includes/slider_settings.php:420
+msgid "Arrows Vertical Offset"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:441, includes/elementor/includes/feedback_settings.php:446, includes/elementor/includes/slider_settings.php:441
+msgid "Customize Prev/Next Buttons"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:453, includes/elementor/includes/feedback_settings.php:458, includes/elementor/includes/slider_settings.php:453
+msgid "Arrows Offset"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:490, includes/elementor/includes/carousel_settings.php:530, includes/elementor/includes/feedback_settings.php:495, includes/elementor/includes/feedback_settings.php:535, includes/elementor/includes/slider_settings.php:490, includes/elementor/includes/slider_settings.php:530, includes/elementor/widgets/rt-gallery.php:560, includes/elementor/widgets/rt-gallery.php:597
+msgid "Button Text Color"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:500, includes/elementor/includes/carousel_settings.php:540, includes/elementor/includes/feedback_settings.php:505, includes/elementor/includes/feedback_settings.php:545, includes/elementor/includes/slider_settings.php:500, includes/elementor/includes/slider_settings.php:540, includes/elementor/widgets/rt-gallery.php:570, includes/elementor/widgets/rt-gallery.php:607
+msgid "Button Background Color"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:589, includes/elementor/includes/feedback_settings.php:594, includes/elementor/includes/slider_settings.php:589, includes/elementor/widgets/rt-blog.php:598, includes/elementor/widgets/rt-courses-ld.php:621, includes/elementor/widgets/rt-courses-tutor.php:513, includes/elementor/widgets/rt-courses.php:524
+msgid "Customize Responsive"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:603, includes/elementor/includes/feedback_settings.php:608, includes/elementor/includes/slider_settings.php:603, includes/elementor/widgets/rt-blog.php:606, includes/elementor/widgets/rt-courses-ld.php:629, includes/elementor/widgets/rt-courses-tutor.php:521, includes/elementor/widgets/rt-courses.php:532
+msgid "Desktop Settings"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:612, includes/elementor/includes/feedback_settings.php:617, includes/elementor/includes/slider_settings.php:612, includes/elementor/widgets/rt-blog.php:615, includes/elementor/widgets/rt-courses-ld.php:638, includes/elementor/widgets/rt-courses-tutor.php:530, includes/elementor/widgets/rt-courses.php:541
+msgid "Desktop Screen Breakpoint"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:623, includes/elementor/includes/carousel_settings.php:654, includes/elementor/includes/carousel_settings.php:686, includes/elementor/includes/feedback_settings.php:628, includes/elementor/includes/feedback_settings.php:659, includes/elementor/includes/feedback_settings.php:691, includes/elementor/includes/slider_settings.php:623, includes/elementor/includes/slider_settings.php:654, includes/elementor/includes/slider_settings.php:686, includes/elementor/widgets/rt-blog.php:626, includes/elementor/widgets/rt-blog.php:657, includes/elementor/widgets/rt-blog.php:688, includes/elementor/widgets/rt-courses-ld.php:649, includes/elementor/widgets/rt-courses-ld.php:680, includes/elementor/widgets/rt-courses-ld.php:711, includes/elementor/widgets/rt-courses-tutor.php:541, includes/elementor/widgets/rt-courses-tutor.php:572, includes/elementor/widgets/rt-courses-tutor.php:603, includes/elementor/widgets/rt-courses.php:552, includes/elementor/widgets/rt-courses.php:583, includes/elementor/widgets/rt-courses.php:614
+msgid "Slides to show"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:633, includes/elementor/includes/feedback_settings.php:638, includes/elementor/includes/slider_settings.php:633, includes/elementor/widgets/rt-blog.php:636, includes/elementor/widgets/rt-courses-ld.php:659, includes/elementor/widgets/rt-courses-tutor.php:551, includes/elementor/widgets/rt-courses.php:562
+msgid "Tablet Settings"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:643, includes/elementor/includes/feedback_settings.php:648, includes/elementor/includes/slider_settings.php:643, includes/elementor/widgets/rt-blog.php:646, includes/elementor/widgets/rt-courses-ld.php:669, includes/elementor/widgets/rt-courses-tutor.php:561, includes/elementor/widgets/rt-courses.php:572
+msgid "Tablet Screen Breakpoint"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:665, includes/elementor/includes/feedback_settings.php:670, includes/elementor/includes/slider_settings.php:665, includes/elementor/widgets/rt-blog.php:667, includes/elementor/widgets/rt-courses-ld.php:690, includes/elementor/widgets/rt-courses-tutor.php:582, includes/elementor/widgets/rt-courses.php:593
+msgid "Mobile Settings"
+msgstr ""
+
+#: includes/elementor/includes/carousel_settings.php:675, includes/elementor/includes/feedback_settings.php:680, includes/elementor/includes/slider_settings.php:675, includes/elementor/widgets/rt-blog.php:677, includes/elementor/widgets/rt-courses-ld.php:700, includes/elementor/widgets/rt-courses-tutor.php:592, includes/elementor/widgets/rt-courses.php:603
+msgid "Mobile Screen Breakpoint"
+msgstr ""
+
+#: includes/elementor/includes/feedback_settings.php:53, includes/elementor/widgets/rt-cf-seven.php:133, includes/elementor/widgets/rt-wpforms.php:80, includes/elementor/widgets/rt-wpforms.php:92
+msgid "Show"
+msgstr ""
+
+#: includes/elementor/includes/feedback_settings.php:54, includes/elementor/widgets/rt-cat-box.php:79, includes/elementor/widgets/rt-cat-box.php:237, includes/elementor/widgets/rt-cf-seven.php:134, includes/elementor/widgets/rt-info-box.php:251, includes/elementor/widgets/rt-wpforms.php:81, includes/elementor/widgets/rt-wpforms.php:93
+msgid "Hide"
+msgstr ""
+
+#: includes/elementor/includes/feedback_settings.php:107
+msgid "Feedback Height"
+msgstr ""
+
+#: includes/elementor/includes/icons_settings.php:51
+msgid "%s Icon/Image"
+msgstr ""
+
+#: includes/elementor/includes/icons_settings.php:57, includes/elementor/modules/rt-section.php:669, includes/elementor/modules/rt-section.php:872, includes/elementor/modules/rt-section.php:1116, includes/elementor/widgets/rt-accordion-service.php:217, includes/elementor/widgets/rt-blog.php:204, includes/elementor/widgets/rt-gallery.php:228, includes/elementor/widgets/rt-gallery.php:659, includes/elementor/widgets/rt-gallery.php:674, includes/elementor/widgets/rt-tabs.php:125, includes/elementor/widgets/rt-toggle-accordion.php:92
+msgid "None"
+msgstr ""
+
+#: includes/elementor/includes/icons_settings.php:65, includes/elementor/includes/icons_settings.php:107, includes/elementor/modules/rt-section.php:992, includes/elementor/widgets/rt-accordion-service.php:225, includes/elementor/widgets/rt-accordion-service.php:247, includes/elementor/widgets/rt-cat-box.php:580, includes/elementor/widgets/rt-cat-item.php:111, includes/elementor/widgets/rt-gallery.php:692, includes/elementor/widgets/rt-info-box.php:609, includes/elementor/widgets/rt-tabs.php:133, includes/elementor/widgets/rt-tabs.php:155
+msgid "Image"
+msgstr ""
+
+#: includes/elementor/includes/icons_settings.php:73, includes/elementor/widgets/rt-accordion-service.php:210
+msgid "Media Type"
+msgstr ""
+
+#: includes/elementor/includes/icons_settings.php:96
+msgid "Icon Class"
+msgstr ""
+
+#: includes/elementor/includes/icons_settings.php:118
+msgid "Image Class"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:61
+msgid "Query"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:69
+msgid "Posts amount"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:79
+msgid "Order by"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:82
+msgid "Date"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:83, includes/elementor/widgets/rt-accordion-service.php:180, includes/elementor/widgets/rt-accordion-service.php:449, includes/elementor/widgets/rt-blog.php:71, includes/elementor/widgets/rt-blog.php:779, includes/elementor/widgets/rt-cat-item.php:51, includes/elementor/widgets/rt-cf-seven.php:230, includes/elementor/widgets/rt-counter.php:477, includes/elementor/widgets/rt-double-headings.php:137, includes/elementor/widgets/rt-gallery.php:656, includes/elementor/widgets/rt-gallery.php:661, includes/elementor/widgets/rt-gallery.php:676, includes/elementor/widgets/rt-hero-section-2.php:128, includes/elementor/widgets/rt-hero-section-2.php:475, includes/elementor/widgets/rt-hero-section.php:128, includes/elementor/widgets/rt-hero-section.php:490, includes/elementor/widgets/rt-info-box.php:164, includes/elementor/widgets/rt-info-box.php:775, includes/elementor/widgets/rt-pricing-table.php:76, includes/elementor/widgets/rt-pricing-table.php:197, includes/elementor/widgets/rt-progress-bar.php:54, includes/elementor/widgets/rt-progress-bar.php:93, includes/elementor/widgets/rt-satellite-service.php:78, includes/elementor/widgets/rt-satellite-service.php:434, includes/elementor/widgets/rt-social-icons.php:132, includes/elementor/widgets/rt-social-icons.php:134, includes/elementor/widgets/rt-tabs.php:227, includes/elementor/widgets/rt-toggle-accordion.php:288, includes/elementor/widgets/rt-video-popup.php:47, includes/elementor/widgets/rt-video-popup.php:189, includes/elementor/widgets/rt-wpforms.php:77, includes/elementor/widgets/rt-wpforms.php:199
+msgid "Title"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:84, includes/elementor/includes/loop_settings.php:218
+msgid "Author"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:85
+msgid "Modified"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:86, includes/elementor/widgets/rt-gallery.php:280
+msgid "Random"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:87
+msgid "Comments"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:88
+msgid "Menu Order"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:97
+msgid "Order"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:100, includes/elementor/includes/loop_settings.php:136
+msgid "Descending"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:101, includes/elementor/includes/loop_settings.php:137
+msgid "Ascending"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:111
+msgid "Categories"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:113
+msgid "Filter by category slug"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:124
+msgid "Exclude Selected Categories"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:126, includes/elementor/includes/loop_settings.php:161, includes/elementor/includes/loop_settings.php:210, includes/elementor/includes/loop_settings.php:233
+msgid "Leave empty for all"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:133
+msgid "Category Order"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:146
+msgid "Tags"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:148
+msgid "Filter by tags slug"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:159
+msgid "Exclude Selected Tags"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:169
+msgid "Taxonomies"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:171
+msgid "Filter by custom taxonomies."
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:182
+msgid "Exclude Selected Taxonomies"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:196
+msgid "Individual Post/Page/Post Types"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:198
+msgid "Filter by individual posts, pages or custom post type"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:208
+msgid "Exclude Selected"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:220
+msgid "Filter by author names"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:231
+msgid "Exclude Selected Authors"
+msgstr ""
+
+#: includes/elementor/includes/loop_settings.php:297, includes/elementor/includes/loop_settings.php:354
+msgid " (Parent categories: ("
+msgstr ""
+
+#: includes/elementor/includes/slider_settings.php:43
+msgid "Slider Options"
+msgstr ""
+
+#: includes/elementor/includes/slider_settings.php:49
+msgid "Use Slider"
+msgstr ""
+
+#: includes/elementor/includes/slider_settings.php:92
+msgid "Vertical Style"
+msgstr ""
+
+#: includes/elementor/includes/slider_settings.php:93
+msgid "Hozirontal Style"
+msgstr ""
+
+#: includes/elementor/includes/slider_settings.php:102
+msgid "Slider Height"
+msgstr ""
+
+#: includes/elementor/init.php:453
+msgid "RT Extensions"
+msgstr ""
+
+#: includes/elementor/init.php:470
+msgid "RT Header Modules"
+msgstr ""
+
+#: includes/elementor/init.php:708
+msgid "Open Theme Builder"
+msgstr ""
+
+#: includes/elementor/modules/rt-icons-library.php:31
+msgid "RT Icons Library"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:53, includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:280
+msgid "RT Header Options"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:61
+msgid "Use Custom Mobile Logo?"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:107
+msgid "Use Custom Mobile Menu Logo?"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:153
+msgid "Mobile Header resolution breakpoint"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:164
+msgid "Over content"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:165
+msgid "Set Header to display over content."
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:270
+msgid "RT Background Text"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:278
+msgid "Add Background Text?"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:288
+msgid "Background Text"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:348
+msgid "Top Spacing"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:365
+msgid "Apply Animation?"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:379
+msgid "RT Parallax"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:387
+msgid "Add Extended Background Animation?"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:397
+msgid "Parallax Effect"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:400
+msgid "Scroll"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:401
+msgid "Mouse"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:402
+msgid "CSS Animation"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:411, includes/elementor/widgets/rt-button-widget.php:455, includes/elementor/widgets/rt-gallery.php:642, includes/elementor/widgets/rt-video-popup.php:133
+msgid "Animation"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:496
+msgid "Animation Iteration Count"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:500
+msgid "Infinite"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:501, includes/elementor/widgets/rt-gallery.php:112
+msgid "1"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:513
+msgid "Animation speed"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:528
+msgid "Animation Direction"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:532, includes/elementor/widgets/rt-cf-seven.php:165, includes/elementor/widgets/rt-cf-seven.php:606, includes/elementor/widgets/rt-feedback.php:789, includes/elementor/widgets/rt-feedback.php:957, includes/elementor/widgets/rt-team.php:382, includes/elementor/widgets/rt-wpforms.php:651
+msgid "Normal"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:533
+msgid "Reverse"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:534
+msgid "Alternate"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:546
+msgid "Parallax Image"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:556
+msgid "Parallax Direction"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:560
+msgid "Vertical"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:561
+msgid "Horizontal"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:570
+msgid "Parallax Factor"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:572
+msgid "Set elements offset and speed. It can be positive (0.3) or negative (-0.3). Less means slower."
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:583, includes/elementor/modules/rt-section.php:881, includes/elementor/modules/rt-section.php:1126, includes/elementor/widgets/rt-blog.php:550, includes/elementor/widgets/rt-courses-ld.php:560, includes/elementor/widgets/rt-courses-tutor.php:452, includes/elementor/widgets/rt-courses.php:463
+msgid "Top Offset"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:585
+msgid "Set figure vertical offset from top border."
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:601, includes/elementor/modules/rt-section.php:899, includes/elementor/modules/rt-section.php:1145
+msgid "Left Offset"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:603
+msgid "Set figure horizontal offset from left border."
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:620
+msgid "Image z-index"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:632, includes/elementor/modules/rt-section.php:941, includes/elementor/modules/rt-section.php:1190
+msgid "Hide On Mobile?"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:639, includes/elementor/modules/rt-section.php:951, includes/elementor/modules/rt-section.php:1201
+msgid "Screen Resolution"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:649
+msgid "Layers"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:661
+msgid "RT Shape Divider"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:670
+msgid "Torn Line"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:674, includes/elementor/widgets/rt-counter.php:69, includes/elementor/widgets/rt-gallery.php:858, includes/elementor/widgets/rt-info-box.php:60, includes/elementor/widgets/rt-tabs.php:573, includes/elementor/widgets/rt-video-popup.php:73
+msgid "Top"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:675, includes/elementor/widgets/rt-gallery.php:866, includes/elementor/widgets/rt-tabs.php:581, includes/elementor/widgets/rt-video-popup.php:81
+msgid "Bottom"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:689, includes/elementor/widgets/rt-toggle-accordion.php:67
+msgid "Type"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:726
+msgid "Flip"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:738
+msgid "Invert"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:750
+msgid "Z-index"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:769
+msgid "RT Particles"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:777, includes/elementor/modules/rt-section.php:982
+msgid "Add Particles Animation?"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:787
+msgid "Style: "
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:790
+msgid "One Color"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:791
+msgid "Random Colors"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:800
+msgid "Color 1"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:810
+msgid "Color 2"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:820
+msgid "Color 3"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:830, includes/elementor/modules/rt-section.php:1056
+msgid "Count Of Particles"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:839, includes/elementor/modules/rt-section.php:1046
+msgid "Particles Max Size"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:848, includes/elementor/modules/rt-section.php:1066
+msgid "Particles Speed"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:858, includes/elementor/modules/rt-section.php:1077
+msgid "Add Linked Line?"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:866, includes/elementor/modules/rt-section.php:1110, includes/elementor/widgets/rt-cat-box.php:259, includes/elementor/widgets/rt-cat-box.php:564, includes/elementor/widgets/rt-cat-box.php:619, includes/elementor/widgets/rt-info-box.php:320, includes/elementor/widgets/rt-info-box.php:593, includes/elementor/widgets/rt-info-box.php:649, includes/elementor/widgets/rt-social-icons.php:465
+msgid "Hover Animation"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:869, includes/elementor/modules/rt-section.php:1113
+msgid "Grab"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:870, includes/elementor/modules/rt-section.php:1114
+msgid "Bubble"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:871, includes/elementor/modules/rt-section.php:1115
+msgid "Repulse"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:883, includes/elementor/modules/rt-section.php:1128
+msgid "Set particles vertical offset from top border."
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:901, includes/elementor/modules/rt-section.php:1147
+msgid "Set particles horizontal offset from left border."
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:919, includes/elementor/modules/rt-section.php:1166
+msgid "Set particles container width in percent."
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:931, includes/elementor/modules/rt-section.php:1179
+msgid "Set particles container height in percent."
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:961
+msgid "Particles"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:974
+msgid "RT Particles Image"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:1002, includes/elementor/widgets/rt-hero-section-2.php:175, includes/elementor/widgets/rt-hero-section-2.php:227, includes/elementor/widgets/rt-hero-section-2.php:279, includes/elementor/widgets/rt-hero-section.php:175, includes/elementor/widgets/rt-hero-section.php:227, includes/elementor/widgets/rt-hero-section.php:279
+msgid "Image Width"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:1004
+msgid "Set particles img width in px."
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:1014, includes/elementor/widgets/rt-feedback.php:310, includes/elementor/widgets/rt-team.php:298
+msgid "Image Height"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:1016
+msgid "Set particles img height in px."
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:1026
+msgid "Particles Image"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:1086
+msgid "Add Rotate Animation?"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:1096
+msgid "Rotate Speed Animation"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:1216
+msgid "RT Header Layout"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:1224
+msgid "Apply Sticky?"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:1240
+msgid "RT Column Options"
+msgstr ""
+
+#: includes/elementor/modules/rt-section.php:1248
+msgid "Enable Sticky?"
+msgstr ""
+
+#: includes/elementor/templates/rt-countdown.php:67
+msgid "Years"
+msgstr ""
+
+#: includes/elementor/templates/rt-countdown.php:68
+msgid "Months"
+msgstr ""
+
+#: includes/elementor/templates/rt-countdown.php:69
+msgid "Weeks"
+msgstr ""
+
+#: includes/elementor/templates/rt-countdown.php:70
+msgid "Days"
+msgstr ""
+
+#: includes/elementor/templates/rt-countdown.php:71, includes/elementor/widgets/rt-countdown.php:90
+msgid "Hours"
+msgstr ""
+
+#: includes/elementor/templates/rt-countdown.php:72, includes/elementor/widgets/rt-countdown.php:101
+msgid "Minutes"
+msgstr ""
+
+#: includes/elementor/templates/rt-countdown.php:73
+msgid "Seconds"
+msgstr ""
+
+#: includes/elementor/templates/rt-countdown.php:74, includes/elementor/widgets/rt-countdown.php:57
+msgid "Year"
+msgstr ""
+
+#: includes/elementor/templates/rt-countdown.php:75, includes/elementor/widgets/rt-countdown.php:68
+msgid "Month"
+msgstr ""
+
+#: includes/elementor/templates/rt-countdown.php:76
+msgid "Week"
+msgstr ""
+
+#: includes/elementor/templates/rt-countdown.php:77, includes/elementor/widgets/rt-countdown.php:79
+msgid "Day"
+msgstr ""
+
+#: includes/elementor/templates/rt-countdown.php:78
+msgid "Hour"
+msgstr ""
+
+#: includes/elementor/templates/rt-countdown.php:79
+msgid "Minute"
+msgstr ""
+
+#: includes/elementor/templates/rt-countdown.php:80
+msgid "Second"
+msgstr ""
+
+#: includes/elementor/templates/rt-courses-alt.php:36, includes/elementor/templates/rt-courses-ld-1.php:36, includes/elementor/templates/rt-courses-ld-2.php:36, includes/elementor/templates/rt-courses-ld-3.php:36, includes/elementor/templates/rt-courses-lp-1.php:36, includes/elementor/templates/rt-courses-lp-2.php:36, includes/elementor/templates/rt-courses-lp-3.php:36, includes/elementor/templates/rt-courses-tutor_1.php:36, includes/elementor/templates/rt-courses-tutor_2.php:36, includes/elementor/templates/rt-courses-tutor_3.php:36
+msgid "Sorry, no any course found."
+msgstr ""
+
+#: includes/elementor/templates/rt-courses-alt.php:324
+msgid "by"
+msgstr ""
+
+#: includes/elementor/templates/rt-courses-alt.php:330
+msgid "STUDENT"
+msgstr ""
+
+#: includes/elementor/templates/rt-courses-alt.php:330
+msgid "STUDENTS"
+msgstr ""
+
+#: includes/elementor/templates/rt-courses-alt.php:343, includes/elementor/templates/rt-courses-lp-2.php:352
+msgid "LESSON"
+msgstr ""
+
+#: includes/elementor/templates/rt-courses-alt.php:343, includes/elementor/templates/rt-courses-lp-2.php:352
+msgid "LESSONS"
+msgstr ""
+
+#: includes/elementor/templates/rt-courses-alt.php:350
+msgid "REVIEW"
+msgstr ""
+
+#: includes/elementor/templates/rt-courses-alt.php:350
+msgid "REVIEWS"
+msgstr ""
+
+#: includes/elementor/templates/rt-courses-alt.php:352, includes/elementor/templates/rt-courses-lp-1.php:366, includes/elementor/templates/rt-courses-lp-2.php:360
+msgid "review is submitted"
+msgid_plural "reviews are submitted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/elementor/templates/rt-courses-alt.php:353, includes/elementor/templates/rt-courses-lp-1.php:366, includes/elementor/templates/rt-courses-lp-2.php:360
+msgid "No any reviews yet"
+msgstr ""
+
+#: includes/elementor/templates/rt-courses-ld-1.php:390, includes/elementor/templates/rt-courses-ld-1.php:396, includes/elementor/templates/rt-courses-ld-2.php:386, includes/elementor/templates/rt-courses-ld-2.php:392, includes/elementor/templates/rt-courses-ld-3.php:390, includes/elementor/templates/rt-courses-ld-3.php:396
+msgid "Free"
+msgstr ""
+
+#: includes/elementor/templates/rt-courses-tutor_1.php:362, includes/elementor/templates/rt-courses-tutor_2.php:367, includes/elementor/templates/rt-courses-tutor_3.php:372
+msgid "Get Enrolled"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:23
+msgid "Accordion Service"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:50, includes/elementor/widgets/rt-blog.php:115, includes/elementor/widgets/rt-courses-ld.php:90, includes/elementor/widgets/rt-courses-tutor.php:90, includes/elementor/widgets/rt-courses.php:90, includes/elementor/widgets/rt-feedback.php:64
+msgid "Grid Columns Amount"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:53, includes/elementor/widgets/rt-blog.php:120, includes/elementor/widgets/rt-courses-ld.php:94, includes/elementor/widgets/rt-courses-tutor.php:94, includes/elementor/widgets/rt-courses.php:94, includes/elementor/widgets/rt-feedback.php:56, includes/elementor/widgets/rt-feedback.php:68
+msgid "2 / Two"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:54, includes/elementor/widgets/rt-blog.php:121, includes/elementor/widgets/rt-courses-ld.php:95, includes/elementor/widgets/rt-courses-tutor.php:95, includes/elementor/widgets/rt-courses.php:95, includes/elementor/widgets/rt-feedback.php:57, includes/elementor/widgets/rt-feedback.php:69
+msgid "3 / Three"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:55, includes/elementor/widgets/rt-blog.php:122, includes/elementor/widgets/rt-courses-ld.php:96, includes/elementor/widgets/rt-courses-tutor.php:96, includes/elementor/widgets/rt-courses.php:96, includes/elementor/widgets/rt-feedback.php:70
+msgid "4 / Four"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:65
+msgid "Items Min Height"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:85, includes/elementor/widgets/rt-accordion-service.php:258, includes/elementor/widgets/rt-feedback.php:137, includes/elementor/widgets/rt-feedback.php:196
+msgid "Items"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:106, includes/elementor/widgets/rt-feedback.php:83
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:119, includes/elementor/widgets/rt-button-widget.php:125, includes/elementor/widgets/rt-courses-ld.php:839, includes/elementor/widgets/rt-courses-tutor.php:730, includes/elementor/widgets/rt-courses.php:742, includes/elementor/widgets/rt-hero-section-2.php:50, includes/elementor/widgets/rt-hero-section.php:50
+msgid "Position"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:123
+msgid "Center Center"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:124
+msgid "Center Left"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:125
+msgid "Center Right"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:126
+msgid "Top Center"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:127
+msgid "Top Left"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:128
+msgid "Top Right"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:129
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:130
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:131
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:143, includes/elementor/widgets/rt-accordion-service.php:148
+msgid "Repeat"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:147
+msgid "No-repeat"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:149
+msgid "Repeat X"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:150
+msgid "Repeat Y"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:166
+msgid "Cover"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:167
+msgid "Contain"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:168
+msgid "Auto"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:191, includes/elementor/widgets/rt-accordion-service.php:342, includes/elementor/widgets/rt-blog.php:937, includes/elementor/widgets/rt-cat-box.php:188, includes/elementor/widgets/rt-cat-box.php:745, includes/elementor/widgets/rt-courses-ld.php:980, includes/elementor/widgets/rt-courses-tutor.php:871, includes/elementor/widgets/rt-courses.php:883, includes/elementor/widgets/rt-hero-section-2.php:122, includes/elementor/widgets/rt-hero-section-2.php:529, includes/elementor/widgets/rt-hero-section.php:122, includes/elementor/widgets/rt-hero-section.php:544, includes/elementor/widgets/rt-info-box.php:158, includes/elementor/widgets/rt-info-box.php:193, includes/elementor/widgets/rt-info-box.php:1063, includes/elementor/widgets/rt-pricing-table.php:120, includes/elementor/widgets/rt-pricing-table.php:430, includes/elementor/widgets/rt-satellite-service.php:537, includes/elementor/widgets/rt-tabs.php:103, includes/elementor/widgets/rt-tabs.php:172, includes/elementor/widgets/rt-tabs.php:675, includes/elementor/widgets/rt-toggle-accordion.php:170, includes/elementor/widgets/rt-toggle-accordion.php:230, includes/elementor/widgets/rt-toggle-accordion.php:891
+msgid "Content"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:240
+msgid "Select icon from available libraries."
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:263
+msgid "Title 1"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:264
+msgid "Title 2"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:265
+msgid "Title 3"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:284
+msgid "Thumbnail Clickable"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:292, includes/elementor/widgets/rt-satellite-service.php:155
+msgid "Add 'Read More' Button"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:303, includes/elementor/widgets/rt-blog.php:358, includes/elementor/widgets/rt-blog.php:1182, includes/elementor/widgets/rt-satellite-service.php:169
+msgid "Read More"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:316, includes/elementor/widgets/rt-satellite-service.php:825
+msgid "Item"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:324
+msgid "Item Border Radius"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:428, includes/elementor/widgets/rt-counter.php:340, includes/elementor/widgets/rt-social-icons.php:481, includes/elementor/widgets/rt-tabs.php:545, includes/elementor/widgets/rt-toggle-accordion.php:668, includes/elementor/widgets/rt-video-popup.php:430
+msgid "Icon Size"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:471, includes/elementor/widgets/rt-accordion-service.php:546, includes/elementor/widgets/rt-cat-box.php:753, includes/elementor/widgets/rt-cat-item.php:62, includes/elementor/widgets/rt-cat-item.php:92, includes/elementor/widgets/rt-counter.php:485, includes/elementor/widgets/rt-double-headings.php:153, includes/elementor/widgets/rt-info-box.php:783, includes/elementor/widgets/rt-info-box.php:1080, includes/elementor/widgets/rt-progress-bar.php:109, includes/elementor/widgets/rt-satellite-service.php:442, includes/elementor/widgets/rt-satellite-service.php:545, includes/elementor/widgets/rt-toggle-accordion.php:304, includes/elementor/widgets/rt-video-popup.php:206
+msgid "HTML Tag"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:526, includes/elementor/widgets/rt-gallery.php:663, includes/elementor/widgets/rt-gallery.php:671, includes/elementor/widgets/rt-gallery.php:678, includes/elementor/widgets/rt-hero-section-2.php:138, includes/elementor/widgets/rt-hero-section.php:138, includes/elementor/widgets/rt-pricing-table.php:131, includes/elementor/widgets/rt-pricing-table.php:497, includes/elementor/widgets/rt-wpforms.php:89, includes/elementor/widgets/rt-wpforms.php:285
+msgid "Description"
+msgstr ""
+
+#: includes/elementor/widgets/rt-accordion-service.php:596, includes/elementor/widgets/rt-button-widget.php:24, includes/elementor/widgets/rt-button-widget.php:163, includes/elementor/widgets/rt-cat-box.php:926, includes/elementor/widgets/rt-cf-seven.php:596, includes/elementor/widgets/rt-info-box.php:1180, includes/elementor/widgets/rt-pricing-table.php:155, includes/elementor/widgets/rt-pricing-table.php:545, includes/elementor/widgets/rt-satellite-service.php:663, includes/elementor/widgets/rt-video-popup.php:286, includes/elementor/widgets/rt-wpforms.php:641
+msgid "Button"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:32
+msgid "RT Blog"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:81
+msgid "Subitle"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:96, includes/elementor/widgets/rt-courses-ld.php:57, includes/elementor/widgets/rt-courses-tutor.php:57, includes/elementor/widgets/rt-courses.php:57, includes/elementor/widgets/rt-gallery.php:86
+msgid "Grid"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:100, includes/elementor/widgets/rt-courses-ld.php:61, includes/elementor/widgets/rt-courses-tutor.php:61, includes/elementor/widgets/rt-courses.php:61, includes/elementor/widgets/rt-gallery.php:90
+msgid "Masonry"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:104, includes/elementor/widgets/rt-courses-ld.php:65, includes/elementor/widgets/rt-courses-tutor.php:65, includes/elementor/widgets/rt-courses.php:65, includes/elementor/widgets/rt-gallery.php:98
+msgid "Carousel"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:119, includes/elementor/widgets/rt-courses-ld.php:93, includes/elementor/widgets/rt-courses-tutor.php:93, includes/elementor/widgets/rt-courses.php:93, includes/elementor/widgets/rt-feedback.php:55, includes/elementor/widgets/rt-feedback.php:67
+msgid "1 / One"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:134, includes/elementor/widgets/rt-courses-ld.php:107, includes/elementor/widgets/rt-courses-tutor.php:107, includes/elementor/widgets/rt-courses.php:107, includes/elementor/widgets/rt-gallery.php:171
+msgid "Image Size"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:158, includes/elementor/widgets/rt-courses-ld.php:124, includes/elementor/widgets/rt-courses-tutor.php:124, includes/elementor/widgets/rt-courses.php:124, includes/elementor/widgets/rt-gallery.php:191
+msgid "Image Dimension"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:164, includes/elementor/widgets/rt-gallery.php:197
+msgid "Crop the original image to any custom size. You can also set a single value for width to keep the initial ratio."
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:175, includes/elementor/widgets/rt-courses-ld.php:141, includes/elementor/widgets/rt-courses-tutor.php:141, includes/elementor/widgets/rt-courses.php:141, includes/elementor/widgets/rt-gallery.php:204
+msgid "Image Aspect Ratio"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:197
+msgid "Navigation Type"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:205
+msgid "Pagination"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:206, includes/elementor/widgets/rt-blog.php:1297
+msgid "Load More"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:215
+msgid "Navigation's Alignment"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:241
+msgid "Navigation Margin Top"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:261
+msgid "Items to be loaded"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:282
+msgid "LOAD MORE"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:294, includes/elementor/widgets/rt-courses-ld.php:204, includes/elementor/widgets/rt-courses-tutor.php:204, includes/elementor/widgets/rt-courses.php:204
+msgid "Appearance"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:300
+msgid "Hide Media?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:308
+msgid "Clickable Image?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:318
+msgid "Hide Title?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:326
+msgid "Hide Content?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:334
+msgid "Characters Amount in Content"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:345
+msgid "Hide 'Read More' button?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:354
+msgid "Read More Text"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:365
+msgid "Hide all post meta?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:374
+msgid "Hide author?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:383
+msgid "Hide comments?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:392
+msgid "Hide post-meta categories?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:401
+msgid "Hide post-meta date?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:410
+msgid "Hide Views?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:420
+msgid "Hide Likes?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:428
+msgid "Hide Shares?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:472, includes/elementor/widgets/rt-courses-ld.php:475, includes/elementor/widgets/rt-courses-tutor.php:367, includes/elementor/widgets/rt-courses.php:378
+msgid "Infinite Loop"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:480, includes/elementor/widgets/rt-courses-ld.php:483, includes/elementor/widgets/rt-courses-tutor.php:375, includes/elementor/widgets/rt-courses.php:386, includes/elementor/widgets/rt-gallery.php:363
+msgid "Slide One Item per time"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:488, includes/elementor/widgets/rt-courses-ld.php:499, includes/elementor/widgets/rt-courses-tutor.php:391, includes/elementor/widgets/rt-courses.php:402
+msgid "Add Pagination controls"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:565, includes/elementor/widgets/rt-courses-ld.php:574, includes/elementor/widgets/rt-courses-tutor.php:466, includes/elementor/widgets/rt-courses.php:477
+msgid "Customize Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:574, includes/elementor/widgets/rt-courses-ld.php:583, includes/elementor/widgets/rt-courses-tutor.php:475, includes/elementor/widgets/rt-courses.php:486, includes/elementor/widgets/rt-gallery.php:485
+msgid "Pagination Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:588, includes/elementor/widgets/rt-courses-ld.php:605, includes/elementor/widgets/rt-courses-tutor.php:497, includes/elementor/widgets/rt-courses.php:508
+msgid "Add Navigation controls"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:713
+msgid "Post Item"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:721
+msgid "Content Section Padding"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:744
+msgid "Add Item Background"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:770
+msgid "Module Title"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:807, includes/elementor/widgets/rt-double-headings.php:49, includes/elementor/widgets/rt-double-headings.php:54, includes/elementor/widgets/rt-double-headings.php:277, includes/elementor/widgets/rt-info-box.php:183, includes/elementor/widgets/rt-info-box.php:980
+msgid "Subtitle"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:842
+msgid "Headings"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:860, includes/elementor/widgets/rt-courses-ld.php:903, includes/elementor/widgets/rt-courses-tutor.php:794, includes/elementor/widgets/rt-courses.php:806
+msgid "HTML tag"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:985, includes/elementor/widgets/rt-courses-ld.php:1028, includes/elementor/widgets/rt-courses-tutor.php:919, includes/elementor/widgets/rt-courses.php:931
+msgid "Meta Data"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:1119, includes/elementor/widgets/rt-counter.php:317, includes/elementor/widgets/rt-satellite-service.php:193
+msgid "Media"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:1128
+msgid "Image Overlay Idle"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:1151
+msgid "Image Hover Overlay"
+msgstr ""
+
+#: includes/elementor/widgets/rt-blog.php:1245, includes/elementor/widgets/rt-blog.php:1276
+msgid "Extra Element Background"
+msgstr ""
+
+#: includes/elementor/widgets/rt-button-widget.php:40, includes/elementor/widgets/rt-countdown.php:228
+msgid "Small"
+msgstr ""
+
+#: includes/elementor/widgets/rt-button-widget.php:41, includes/elementor/widgets/rt-countdown.php:227
+msgid "Medium"
+msgstr ""
+
+#: includes/elementor/widgets/rt-button-widget.php:42, includes/elementor/widgets/rt-countdown.php:226
+msgid "Large"
+msgstr ""
+
+#: includes/elementor/widgets/rt-button-widget.php:43
+msgid "Extra Large"
+msgstr ""
+
+#: includes/elementor/widgets/rt-button-widget.php:69
+msgid "Learn More"
+msgstr ""
+
+#: includes/elementor/widgets/rt-button-widget.php:103
+msgid "Full Width"
+msgstr ""
+
+#: includes/elementor/widgets/rt-button-widget.php:129
+msgid "Before"
+msgstr ""
+
+#: includes/elementor/widgets/rt-button-widget.php:130
+msgid "After"
+msgstr ""
+
+#: includes/elementor/widgets/rt-button-widget.php:136
+msgid "Offset"
+msgstr ""
+
+#: includes/elementor/widgets/rt-button-widget.php:212, includes/elementor/widgets/rt-button-widget.php:283, includes/elementor/widgets/rt-pricing-table.php:672, includes/elementor/widgets/rt-satellite-service.php:347, includes/elementor/widgets/rt-satellite-service.php:369, includes/elementor/widgets/rt-social-icons.php:199, includes/elementor/widgets/rt-social-icons.php:240, includes/elementor/widgets/rt-social-icons.php:397, includes/elementor/widgets/rt-social-icons.php:446, includes/elementor/widgets/rt-toggle-accordion.php:763, includes/elementor/widgets/rt-toggle-accordion.php:813, includes/elementor/widgets/rt-toggle-accordion.php:863
+msgid "Border Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-button-widget.php:365
+msgid "Icon/Image"
+msgstr ""
+
+#: includes/elementor/widgets/rt-button-widget.php:432, includes/elementor/widgets/rt-cat-box.php:385, includes/elementor/widgets/rt-feedback.php:808, includes/elementor/widgets/rt-info-box.php:414
+msgid "Font Size"
+msgstr ""
+
+#: includes/elementor/widgets/rt-button-widget.php:463
+msgid "Button Hover"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:27
+msgid "RT Category Box"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:60, includes/elementor/widgets/rt-courses-ld.php:79, includes/elementor/widgets/rt-courses-tutor.php:79, includes/elementor/widgets/rt-courses.php:79
+msgid "Layout 1"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:64, includes/elementor/widgets/rt-courses-ld.php:80, includes/elementor/widgets/rt-courses-tutor.php:80, includes/elementor/widgets/rt-courses.php:80
+msgid "Layout 2"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:74, includes/elementor/widgets/rt-cat-box.php:85
+msgid "Image Shape"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:78, includes/elementor/widgets/rt-cat-box.php:236, includes/elementor/widgets/rt-info-box.php:250
+msgid "Use"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:90
+msgid "One"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:94
+msgid "Two"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:98
+msgid "Three"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:140, includes/elementor/widgets/rt-info-box.php:110, includes/elementor/widgets/rt-social-icons.php:328
+msgid "View"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:145, includes/elementor/widgets/rt-info-box.php:115, includes/elementor/widgets/rt-toggle-accordion.php:108
+msgid "Stacked"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:146, includes/elementor/widgets/rt-info-box.php:116, includes/elementor/widgets/rt-toggle-accordion.php:109
+msgid "Framed"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:153, includes/elementor/widgets/rt-info-box.php:123, includes/elementor/widgets/rt-social-icons.php:287
+msgid "Shape"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:193, includes/elementor/widgets/rt-cat-box.php:196
+msgid "Category"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:203, includes/elementor/widgets/rt-courses-ld.php:268
+msgid "Lesson"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:206
+msgid "12 Lesson"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:232, includes/elementor/widgets/rt-info-box.php:248
+msgid "'Read More' Button"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:247, includes/elementor/widgets/rt-info-box.php:308
+msgid "LEARN MORE"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:265, includes/elementor/widgets/rt-info-box.php:326
+msgid "Lift Up the Item"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:278, includes/elementor/widgets/rt-info-box.php:339
+msgid "Toggle Icon/Content Visibility"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:295, includes/elementor/widgets/rt-info-box.php:356
+msgid "Animation Distance"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:316, includes/elementor/widgets/rt-cat-box.php:665, includes/elementor/widgets/rt-feedback.php:291, includes/elementor/widgets/rt-info-box.php:377, includes/elementor/widgets/rt-info-box.php:695
+msgid "Transition Duration"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:344, includes/elementor/widgets/rt-team.php:290
+msgid "Styles"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:401, includes/elementor/widgets/rt-info-box.php:430
+msgid "Rotate"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:443, includes/elementor/widgets/rt-info-box.php:472, includes/elementor/widgets/rt-satellite-service.php:300, includes/elementor/widgets/rt-toggle-accordion.php:709
+msgid "Border Width"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:495, includes/elementor/widgets/rt-cat-box.php:541, includes/elementor/widgets/rt-cat-box.php:990, includes/elementor/widgets/rt-double-headings.php:330, includes/elementor/widgets/rt-info-box.php:524, includes/elementor/widgets/rt-info-box.php:570, includes/elementor/widgets/rt-info-box.php:1244
+msgid "Additional Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:627, includes/elementor/widgets/rt-info-box.php:657
+msgid "Show Border for Image?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:651, includes/elementor/widgets/rt-cat-box.php:709, includes/elementor/widgets/rt-info-box.php:681, includes/elementor/widgets/rt-info-box.php:739
+msgid "Opacity"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:680, includes/elementor/widgets/rt-cat-box.php:723, includes/elementor/widgets/rt-info-box.php:710, includes/elementor/widgets/rt-info-box.php:753
+msgid "Image Border Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:772, includes/elementor/widgets/rt-info-box.php:802
+msgid "Show Separator?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:817, includes/elementor/widgets/rt-cat-box.php:851, includes/elementor/widgets/rt-cat-item.php:203, includes/elementor/widgets/rt-hero-section-2.php:494, includes/elementor/widgets/rt-hero-section.php:509, includes/elementor/widgets/rt-info-box.php:847, includes/elementor/widgets/rt-info-box.php:881, includes/elementor/widgets/rt-team.php:389, includes/elementor/widgets/rt-toggle-accordion.php:361, includes/elementor/widgets/rt-toggle-accordion.php:428, includes/elementor/widgets/rt-toggle-accordion.php:501, includes/elementor/widgets/rt-video-popup.php:256
+msgid "Title Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:830, includes/elementor/widgets/rt-cat-box.php:864, includes/elementor/widgets/rt-info-box.php:860, includes/elementor/widgets/rt-info-box.php:894
+msgid "Separator Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:889
+msgid "Lesson Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:1023, includes/elementor/widgets/rt-info-box.php:1278
+msgid "Additional Hover Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:1052, includes/elementor/widgets/rt-info-box.php:1307
+msgid "Module Overflow"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:1056, includes/elementor/widgets/rt-info-box.php:1311
+msgid "Visible"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:1057, includes/elementor/widgets/rt-info-box.php:1312
+msgid "Hidden"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:1089
+msgid "Overlay"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-box.php:1136, includes/elementor/widgets/rt-info-box.php:1355
+msgid "Transition Delay"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-item.php:22
+msgid "RT Category Item"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-item.php:44
+msgid "Category Item Settings"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-item.php:55, includes/elementor/widgets/rt-counter.php:93, includes/elementor/widgets/rt-info-box.php:167, includes/elementor/widgets/rt-satellite-service.php:81
+msgid "This is the heading​"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-item.php:81, includes/elementor/widgets/rt-cat-item.php:85
+msgid "Category Name"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-item.php:143
+msgid "Category Link"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-item.php:158
+msgid "Category Item Styles"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-item.php:165
+msgid "Overlay Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-item.php:209
+msgid "Category Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-item.php:221
+msgid "Count Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cat-item.php:254, includes/elementor/widgets/rt-feedback.php:228
+msgid "Image Border Radius"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cf-seven.php:25, includes/elementor/widgets/rt-cf-seven.php:60
+msgid "Contact Forms 7"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cf-seven.php:50
+msgid "No contact form found"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cf-seven.php:66, includes/elementor/widgets/rt-wpforms.php:66
+msgid "Select Form"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cf-seven.php:82
+msgid "Form Subtitle Tag"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cf-seven.php:110
+msgid "Form Title Tag"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cf-seven.php:130
+msgid "Show Input Icon"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cf-seven.php:188
+msgid "Box Shadow Hover"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cf-seven.php:214
+msgid "Submit Padding"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cf-seven.php:313, includes/elementor/widgets/rt-wpforms.php:346
+msgid "Label"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cf-seven.php:373, includes/elementor/widgets/rt-wpforms.php:418
+msgid "Input"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cf-seven.php:463, includes/elementor/widgets/rt-cf-seven.php:574, includes/elementor/widgets/rt-cf-seven.php:735, includes/elementor/widgets/rt-cf-seven.php:798, includes/elementor/widgets/rt-feedback.php:841, includes/elementor/widgets/rt-feedback.php:916, includes/elementor/widgets/rt-wpforms.php:508, includes/elementor/widgets/rt-wpforms.php:619, includes/elementor/widgets/rt-wpforms.php:784, includes/elementor/widgets/rt-wpforms.php:847
+msgid "Border"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cf-seven.php:486, includes/elementor/widgets/rt-wpforms.php:531
+msgid "Textarea"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cf-seven.php:755, includes/elementor/widgets/rt-wpforms.php:804
+msgid "Box Shadow"
+msgstr ""
+
+#: includes/elementor/widgets/rt-cf-seven.php:837
+msgid "Please Select contact form."
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:26
+msgid "RT Countdown Timer"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:51
+msgid "Countdown Timer Settings"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:59
+msgid "Enter your title"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:60
+msgid "2020"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:62
+msgid "Example: 2020"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:70, includes/elementor/widgets/rt-countdown.php:71
+msgid "12"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:73
+msgid "Example: 12"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:81, includes/elementor/widgets/rt-countdown.php:82
+msgid "31"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:84
+msgid "Example: 31"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:92, includes/elementor/widgets/rt-countdown.php:93
+msgid "24"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:95
+msgid "Example: 24"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:103, includes/elementor/widgets/rt-countdown.php:104
+msgid "59"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:106
+msgid "Example: 59"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:119
+msgid "Countdown Timer Content"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:125
+msgid "Hide Days?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:135
+msgid "Hide Hours?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:145
+msgid "Hide Minutes?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:155
+msgid "Hide Seconds?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:165
+msgid "Show Value Names?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:177
+msgid "Show Separating?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:223
+msgid "Countdown Size"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:238
+msgid "Number Typography"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:250
+msgid "Text Typography"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:262
+msgid "Number Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:286
+msgid "Separate Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:302
+msgid "Separate Size"
+msgstr ""
+
+#: includes/elementor/widgets/rt-countdown.php:318
+msgid "Separate Position"
+msgstr ""
+
+#: includes/elementor/widgets/rt-counter.php:23
+msgid "RT Counter"
+msgstr ""
+
+#: includes/elementor/widgets/rt-counter.php:55
+msgid "Counter "
+msgstr ""
+
+#: includes/elementor/widgets/rt-counter.php:88
+msgid "Title Text"
+msgstr ""
+
+#: includes/elementor/widgets/rt-counter.php:100
+msgid "Title Full Width"
+msgstr ""
+
+#: includes/elementor/widgets/rt-counter.php:109
+msgid "Start Value"
+msgstr ""
+
+#: includes/elementor/widgets/rt-counter.php:121
+msgid "End Value"
+msgstr ""
+
+#: includes/elementor/widgets/rt-counter.php:132
+msgid "Counter Prefix"
+msgstr ""
+
+#: includes/elementor/widgets/rt-counter.php:141
+msgid "Counter Suffix"
+msgstr ""
+
+#: includes/elementor/widgets/rt-counter.php:144
+msgid "ex: +"
+msgstr ""
+
+#: includes/elementor/widgets/rt-counter.php:151
+msgid "Animation Speed"
+msgstr ""
+
+#: includes/elementor/widgets/rt-counter.php:257, includes/elementor/widgets/rt-counter.php:293, includes/elementor/widgets/rt-satellite-service.php:319, includes/elementor/widgets/rt-satellite-service.php:754, includes/elementor/widgets/rt-satellite-service.php:805, includes/elementor/widgets/rt-satellite-service.php:891, includes/elementor/widgets/rt-satellite-service.php:929, includes/elementor/widgets/rt-video-popup.php:352
+msgid "Border Type"
+msgstr ""
+
+#: includes/elementor/widgets/rt-counter.php:431, includes/elementor/widgets/rt-progress-bar.php:65, includes/elementor/widgets/rt-progress-bar.php:159
+msgid "Value"
+msgstr ""
+
+#: includes/elementor/widgets/rt-counter.php:439
+msgid "Value Offset"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:26, includes/widgets/ld-course.php:195
+msgid "LearnDash Courses"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:81, includes/elementor/widgets/rt-courses-tutor.php:81, includes/elementor/widgets/rt-courses.php:81
+msgid "Layout 3"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:97, includes/elementor/widgets/rt-courses-tutor.php:97, includes/elementor/widgets/rt-courses.php:97, includes/elementor/widgets/rt-feedback.php:71
+msgid "5 / Five"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:126, includes/elementor/widgets/rt-courses-tutor.php:126, includes/elementor/widgets/rt-courses.php:126
+msgid "You can crop the original image size to any custom size. You can also set a single value for height or width in order to keep the original size ratio."
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:159, includes/elementor/widgets/rt-courses-tutor.php:159, includes/elementor/widgets/rt-courses.php:159
+msgid "Use Filter?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:169, includes/elementor/widgets/rt-courses-tutor.php:169, includes/elementor/widgets/rt-courses.php:169
+msgid "Add Pagination"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:178, includes/elementor/widgets/rt-courses-tutor.php:178, includes/elementor/widgets/rt-courses.php:178
+msgid "Add Link on Image"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:188, includes/elementor/widgets/rt-courses-tutor.php:188, includes/elementor/widgets/rt-courses.php:188
+msgid "Add Link on Title"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:210, includes/elementor/widgets/rt-courses-tutor.php:210, includes/elementor/widgets/rt-courses.php:210
+msgid "Hide Media"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:218, includes/elementor/widgets/rt-courses-tutor.php:218, includes/elementor/widgets/rt-courses.php:218
+msgid "Hide Categories"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:226, includes/elementor/widgets/rt-courses-tutor.php:234, includes/elementor/widgets/rt-courses.php:226
+msgid "Hide Price"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:234, includes/elementor/widgets/rt-courses-tutor.php:242, includes/elementor/widgets/rt-courses.php:234
+msgid "Hide Title"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:242, includes/elementor/widgets/rt-courses-tutor.php:250, includes/elementor/widgets/rt-courses.php:242
+msgid "Hide Instructor"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:250, includes/elementor/widgets/rt-courses.php:258
+msgid "Hide Lessons"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:257
+msgid "Hide Lessons Text"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:265, includes/elementor/widgets/rt-courses-ld.php:276
+msgid "Custom Lessons Text"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:279
+msgid "Lessons"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:286
+msgid "Hide Topic"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:294
+msgid "Hide Topic Text"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:302
+msgid "Custom Topic Text"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:305
+msgid "Topic"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:313
+msgid "Custom Topics Text"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:316
+msgid "Topics"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:323
+msgid "Hide Quiz"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:331
+msgid "Hide Quiz Text"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:339
+msgid "Custom Quiz Text"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:342
+msgid "Quiz"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:350
+msgid "Custom Quizzes Text"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:353
+msgid "Quizzes"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:360, includes/elementor/widgets/rt-courses.php:284
+msgid "Hide Enroll"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:369, includes/elementor/widgets/rt-courses-ld.php:372
+msgid "Enroll Now"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:379, includes/elementor/widgets/rt-courses.php:302
+msgid "See More/Arrow Icon"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:388, includes/elementor/widgets/rt-courses-tutor.php:300, includes/elementor/widgets/rt-courses.php:311
+msgid "Hide Excerpt/Content"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:397, includes/elementor/widgets/rt-courses-tutor.php:309, includes/elementor/widgets/rt-courses.php:320
+msgid "Limit the Excerpt/Content letters"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:408
+msgid "Enrolled Text"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:411
+msgid "Enrolled"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:418
+msgid "completed Text"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:421
+msgid "Completed"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:748, includes/elementor/widgets/rt-courses-tutor.php:639, includes/elementor/widgets/rt-courses.php:651, includes/elementor/widgets/rt-satellite-service.php:583
+msgid "Content Padding"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:768, includes/elementor/widgets/rt-courses-tutor.php:659, includes/elementor/widgets/rt-courses.php:671
+msgid "Meta Padding"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:788, includes/elementor/widgets/rt-courses-tutor.php:679, includes/elementor/widgets/rt-courses.php:691
+msgid "Background Content Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:806, includes/elementor/widgets/rt-courses-tutor.php:697, includes/elementor/widgets/rt-courses.php:709
+msgid "Filter"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:884, includes/elementor/widgets/rt-courses-tutor.php:775, includes/elementor/widgets/rt-courses.php:787
+msgid "Heading"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:1077, includes/elementor/widgets/rt-courses-tutor.php:968, includes/elementor/widgets/rt-courses.php:980, includes/elementor/widgets/rt-pricing-table.php:98, includes/elementor/widgets/rt-pricing-table.php:324
+msgid "Price"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:1094, includes/elementor/widgets/rt-courses-tutor.php:985, includes/elementor/widgets/rt-courses.php:997
+msgid "Price Padding"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-ld.php:1106, includes/elementor/widgets/rt-courses-tutor.php:1004, includes/elementor/widgets/rt-courses.php:1009
+msgid "Price Margin"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-tutor.php:24, includes/widgets/tutor-course.php:206
+msgid "Tutor Courses"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-tutor.php:226
+msgid "Hide without First 2 Categories"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-tutor.php:258, includes/elementor/widgets/rt-courses.php:250
+msgid "Hide Students"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-tutor.php:266
+msgid "Hide Duration"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-tutor.php:274
+msgid "Hide Add Cart"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-tutor.php:282, includes/elementor/widgets/rt-courses.php:266
+msgid "Hide Reviews"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses-tutor.php:291, includes/elementor/widgets/rt-courses.php:275
+msgid "Hide Wishlist"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses.php:24, includes/widgets/lp-course.php:194
+msgid "LearnPress Courses"
+msgstr ""
+
+#: includes/elementor/widgets/rt-courses.php:292, includes/elementor/widgets/rt-courses.php:295
+msgid "See More"
+msgstr ""
+
+#: includes/elementor/widgets/rt-double-headings.php:22
+msgid "Custom Heading"
+msgstr ""
+
+#: includes/elementor/widgets/rt-double-headings.php:53
+msgid "ex: About Us"
+msgstr ""
+
+#: includes/elementor/widgets/rt-double-headings.php:61
+msgid "Title 1st Part"
+msgstr ""
+
+#: includes/elementor/widgets/rt-double-headings.php:65
+msgid "1st part"
+msgstr ""
+
+#: includes/elementor/widgets/rt-double-headings.php:66
+msgctxt "RT Double Heading"
+msgid "Title"
+msgstr ""
+
+#: includes/elementor/widgets/rt-double-headings.php:73
+msgid "Title 2nd Part"
+msgstr ""
+
+#: includes/elementor/widgets/rt-double-headings.php:77
+msgid "2nd part"
+msgstr ""
+
+#: includes/elementor/widgets/rt-double-headings.php:78
+msgctxt "RT Double Heading"
+msgid " consists of parts"
+msgstr ""
+
+#: includes/elementor/widgets/rt-double-headings.php:85
+msgid "Title 3rd Part"
+msgstr ""
+
+#: includes/elementor/widgets/rt-double-headings.php:89
+msgid "3rd part"
+msgstr ""
+
+#: includes/elementor/widgets/rt-double-headings.php:122
+msgid "Title Link"
+msgstr ""
+
+#: includes/elementor/widgets/rt-double-headings.php:172
+msgid "1st Part"
+msgstr ""
+
+#: includes/elementor/widgets/rt-double-headings.php:205
+msgid "2nd Part"
+msgstr ""
+
+#: includes/elementor/widgets/rt-double-headings.php:238
+msgid "3rd Part"
+msgstr ""
+
+#: includes/elementor/widgets/rt-double-headings.php:294
+msgid "Subtitle Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-double-headings.php:307
+msgid "Subtitle Background Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-double-headings.php:319
+msgid "Hide Circle?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:22
+msgid "Testimonials"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:72
+msgid "6 / Six"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:101, includes/elementor/widgets/rt-feedback.php:620, includes/elementor/widgets/rt-team.php:100, includes/elementor/widgets/rt-team.php:372
+msgid "Name"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:104
+msgid "Johan Doe"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:111, includes/elementor/widgets/rt-team.php:110
+msgid "Designation"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:114
+msgid "Managing Director"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:120
+msgid "Client Say"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:122, includes/elementor/widgets/rt-feedback.php:145, includes/elementor/widgets/rt-feedback.php:157
+msgid "I believe in lifelong learning and they are a great place to learn from experts. I have learned a lot and recommend it"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:128
+msgid "Add Link"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:143
+msgid "James Smith"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:144
+msgid "CFO Apple Corp"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:149
+msgid "Mark Donald"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:150
+msgid "Manager"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:151
+msgid "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt labore Lorem ipsum"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:155
+msgid "John Dowson"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:156
+msgid "Developer"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:168
+msgid "Custom Items Height"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:204, includes/elementor/widgets/rt-gallery.php:719
+msgid "Image Margin"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:216
+msgid "Image Padding"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:334
+msgid "Item Padding"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:375, includes/elementor/widgets/rt-hero-section-2.php:150, includes/elementor/widgets/rt-hero-section.php:150
+msgid "Images"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:598
+msgid "Quote"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:671, includes/elementor/widgets/rt-team.php:437, includes/elementor/widgets/rt-team.php:444
+msgid "Degree"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:723
+msgid "Client say"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:774
+msgid "Navigation Arrow"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:860
+msgid "Arrow Size"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:942
+msgid "Dot Pagination"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:964
+msgid "Dot Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:976
+msgid "Dot Size"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:999
+msgid "Space Between"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:1021
+msgid "Dot Position"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:1053
+msgid "Dot Active Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:1196, includes/elementor/widgets/rt-feedback.php:1254
+msgid "$item[client_say]"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:1201, includes/elementor/widgets/rt-feedback.php:1261
+msgid "$item[client_name]"
+msgstr ""
+
+#: includes/elementor/widgets/rt-feedback.php:1206, includes/elementor/widgets/rt-feedback.php:1266
+msgid "$item[client_designation]"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:32
+msgid "RT Gallery"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:65
+msgid "Gallery Settings"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:82
+msgid "Gallery Layout"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:94, includes/elementor/widgets/rt-tabs.php:85
+msgid "Justified"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:109
+msgid "Columns"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:113
+msgid "2"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:114
+msgid "3"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:115
+msgid "4"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:116
+msgid "5"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:132
+msgid "Row Height"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:148
+msgid "Gap"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:229
+msgid "Media File"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:230
+msgid "Custom URL"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:245
+msgid "Note: Specify the link in the attachment details of each corresponding image."
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:252
+msgid "Open in New Tab"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:264
+msgid "Open in Popup"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:276
+msgid "Order By"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:281
+msgid "ASC"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:282
+msgid "DESC"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:292
+msgid "Add Appear Animation"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:304, includes/elementor/widgets/rt-video-popup.php:141
+msgid "Animation Style"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:311
+msgid "Fade In"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:312
+msgid "Slide Top"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:313
+msgid "Slide Bottom"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:314
+msgid "Slide Left"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:315
+msgid "Slide Right"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:316
+msgid "Zoom"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:331
+msgid "Carousel Settings"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:373
+msgid "Infinite loop sliding"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:505
+msgid "Custom offset"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:516
+msgid "Buttons Top Offset"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:536
+msgid "Customize Arrows Colors"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:579, includes/elementor/widgets/rt-gallery.php:616
+msgid "Button Border Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:635
+msgid "Image Attachment"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:646
+msgid "Visible Until Hover"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:647
+msgid "Always Visible"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:660, includes/elementor/widgets/rt-gallery.php:675
+msgid "Alt"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:662, includes/elementor/widgets/rt-gallery.php:677
+msgid "Caption"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:820
+msgid "Info"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:854
+msgid "Vertical Position"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:862
+msgid "Middle"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:885
+msgid "Info Padding"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:903
+msgid "Title Styles"
+msgstr ""
+
+#: includes/elementor/widgets/rt-gallery.php:982
+msgid "Description Styles"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:33
+msgid "Hero Section 2"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:56, includes/elementor/widgets/rt-hero-section.php:56
+msgid "Content Section Position"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:72, includes/elementor/widgets/rt-hero-section.php:72
+msgid "Section Height"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:88, includes/elementor/widgets/rt-hero-section.php:88
+msgid "Section Top Position"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:104, includes/elementor/widgets/rt-hero-section.php:104
+msgid "Section Right Position"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:130, includes/elementor/widgets/rt-hero-section.php:130
+msgid "Build skills with courses and degrees from our courses"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:140, includes/elementor/widgets/rt-hero-section.php:140
+msgid "Start streaming on-demand video lectures today from top level instructors Attention heatmaps. "
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:156, includes/elementor/widgets/rt-hero-section.php:156
+msgid "Image 1"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:192, includes/elementor/widgets/rt-hero-section-2.php:244, includes/elementor/widgets/rt-hero-section-2.php:296, includes/elementor/widgets/rt-hero-section.php:192, includes/elementor/widgets/rt-hero-section.php:244, includes/elementor/widgets/rt-hero-section.php:296
+msgid "Image Position"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:208, includes/elementor/widgets/rt-hero-section.php:208
+msgid "Image 2"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:260, includes/elementor/widgets/rt-hero-section.php:260
+msgid "Image 3"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:321, includes/elementor/widgets/rt-hero-section.php:329
+msgid "Search Type"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:325, includes/elementor/widgets/rt-hero-section.php:333
+msgid "WordPress Search"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:326, includes/elementor/widgets/rt-hero-section.php:334
+msgid "Tutor Search"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:327, includes/elementor/widgets/rt-hero-section.php:335
+msgid "LearnPress Search"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:328, includes/elementor/widgets/rt-hero-section.php:336
+msgid "LearnDash Search"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:345, includes/elementor/widgets/rt-hero-section-2.php:772, includes/elementor/widgets/rt-hero-section.php:353, includes/elementor/widgets/rt-hero-section.php:787
+msgid "Placeholder"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:359, includes/elementor/widgets/rt-hero-section-2.php:813, includes/elementor/widgets/rt-hero-section.php:367, includes/elementor/widgets/rt-hero-section.php:372, includes/elementor/widgets/rt-hero-section.php:828
+msgid "Icon Text"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:449, includes/elementor/widgets/rt-hero-section.php:464
+msgid "Image Section Padding"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:461, includes/elementor/widgets/rt-hero-section.php:476
+msgid "Image Section Margin"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:484, includes/elementor/widgets/rt-hero-section.php:499
+msgid "Title Typography"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:505, includes/elementor/widgets/rt-hero-section.php:520
+msgid "Underline"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:513, includes/elementor/widgets/rt-hero-section.php:528
+msgid "Underline Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:538, includes/elementor/widgets/rt-hero-section.php:553
+msgid "Content Typography"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:660, includes/elementor/widgets/rt-hero-section.php:675
+msgid "Submit Button Width"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:694, includes/elementor/widgets/rt-hero-section.php:709
+msgid "Input Text"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:705, includes/elementor/widgets/rt-hero-section.php:720
+msgid "Input Border"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:716, includes/elementor/widgets/rt-hero-section.php:731
+msgid "Input Background"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:727, includes/elementor/widgets/rt-hero-section.php:742
+msgid "Submit Background"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:738, includes/elementor/widgets/rt-hero-section.php:753
+msgid "Submit Background Hover"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:749, includes/elementor/widgets/rt-hero-section.php:764
+msgid "Submit Border"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:761, includes/elementor/widgets/rt-hero-section.php:776
+msgid "Submit Typography"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:783, includes/elementor/widgets/rt-hero-section.php:798
+msgid "Submit Text"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section-2.php:795, includes/elementor/widgets/rt-hero-section.php:810
+msgid "Submit Text Hover"
+msgstr ""
+
+#: includes/elementor/widgets/rt-hero-section.php:33
+msgid "RT Hero Section"
+msgstr ""
+
+#: includes/elementor/widgets/rt-info-box.php:27
+msgid "RT Info Box"
+msgstr ""
+
+#: includes/elementor/widgets/rt-info-box.php:174, includes/elementor/widgets/rt-info-box.php:916
+msgid "Additional Title"
+msgstr ""
+
+#: includes/elementor/widgets/rt-info-box.php:186
+msgid "ex: 01"
+msgstr ""
+
+#: includes/elementor/widgets/rt-info-box.php:195, includes/elementor/widgets/rt-satellite-service.php:92
+msgid "Description Text"
+msgstr ""
+
+#: includes/elementor/widgets/rt-info-box.php:198, includes/elementor/widgets/rt-satellite-service.php:93
+msgid "Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: includes/elementor/widgets/rt-info-box.php:240
+msgid "Whole Module Link"
+msgstr ""
+
+#: includes/elementor/widgets/rt-info-box.php:258
+msgid "Inline Button"
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:22
+msgid "RT Pricing Table"
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:78
+msgid "Title..."
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:79
+msgid "Basic"
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:87
+msgid "Currency"
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:89
+msgid "Currency..."
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:90
+msgid "$"
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:100
+msgid "Price..."
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:101
+msgid "99"
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:109, includes/elementor/widgets/rt-pricing-table.php:377
+msgid "Period"
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:111
+msgid "Period..."
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:112
+msgid "/ PER HOUR"
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:124
+msgid "Your content..."
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:134
+msgid "Description..."
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:141
+msgid "Enable hover animation"
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:143
+msgid "Lift up the item on hover."
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:161
+msgid "Use button?"
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:174
+msgid "CHOOSE"
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:181, includes/elementor/widgets/rt-satellite-service.php:177
+msgid "Button Link"
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:756
+msgid "Customize for:"
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:759
+msgid "whole module"
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:760
+msgid "separate sections"
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:783
+msgid "Header Section Background"
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:806
+msgid "Content Section Background"
+msgstr ""
+
+#: includes/elementor/widgets/rt-pricing-table.php:820
+msgid "Footer Section Background"
+msgstr ""
+
+#: includes/elementor/widgets/rt-progress-bar.php:22
+msgid "RT Progress Bar"
+msgstr ""
+
+#: includes/elementor/widgets/rt-progress-bar.php:56
+msgid "ex: My Skill"
+msgstr ""
+
+#: includes/elementor/widgets/rt-progress-bar.php:57
+msgid "My Skill"
+msgstr ""
+
+#: includes/elementor/widgets/rt-progress-bar.php:75
+msgid "Units"
+msgstr ""
+
+#: includes/elementor/widgets/rt-progress-bar.php:78
+msgid "ex: %, px, points, etc."
+msgstr ""
+
+#: includes/elementor/widgets/rt-progress-bar.php:79
+msgid "%"
+msgstr ""
+
+#: includes/elementor/widgets/rt-progress-bar.php:224
+msgid "Value Position"
+msgstr ""
+
+#: includes/elementor/widgets/rt-progress-bar.php:227
+msgid "Fixed"
+msgstr ""
+
+#: includes/elementor/widgets/rt-progress-bar.php:228
+msgid "Dynamic"
+msgstr ""
+
+#: includes/elementor/widgets/rt-progress-bar.php:244
+msgid "Bar"
+msgstr ""
+
+#: includes/elementor/widgets/rt-progress-bar.php:252
+msgid "Filled Bar Height"
+msgstr ""
+
+#: includes/elementor/widgets/rt-progress-bar.php:268
+msgid "Empty Bar Height"
+msgstr ""
+
+#: includes/elementor/widgets/rt-progress-bar.php:284
+msgid "Empty Bar Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-progress-bar.php:297
+msgid "Filled Bar Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-satellite-service.php:23
+msgid "RT Satellite Service"
+msgstr ""
+
+#: includes/elementor/widgets/rt-satellite-service.php:44
+msgid "Media Width (Height)"
+msgstr ""
+
+#: includes/elementor/widgets/rt-satellite-service.php:71
+msgid "Service Content"
+msgstr ""
+
+#: includes/elementor/widgets/rt-satellite-service.php:88
+msgid "Service Text"
+msgstr ""
+
+#: includes/elementor/widgets/rt-satellite-service.php:128
+msgid "Service Link"
+msgstr ""
+
+#: includes/elementor/widgets/rt-satellite-service.php:134
+msgid "Add Link To Whole Item"
+msgstr ""
+
+#: includes/elementor/widgets/rt-satellite-service.php:215, includes/elementor/widgets/rt-satellite-service.php:237
+msgid "Primary Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-satellite-service.php:326
+msgid "Groove"
+msgstr ""
+
+#: includes/elementor/widgets/rt-satellite-service.php:385
+msgid "Circles Width(Height)"
+msgstr ""
+
+#: includes/elementor/widgets/rt-satellite-service.php:402
+msgid "First Circle Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-satellite-service.php:415
+msgid "Second Circle Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-satellite-service.php:461
+msgid "Title Offset"
+msgstr ""
+
+#: includes/elementor/widgets/rt-satellite-service.php:564
+msgid "Content Offset"
+msgstr ""
+
+#: includes/elementor/widgets/rt-social-icons.php:20
+msgid "RT Social Icons"
+msgstr ""
+
+#: includes/elementor/widgets/rt-social-icons.php:153, includes/elementor/widgets/rt-social-icons.php:351
+msgid "Color Palette"
+msgstr ""
+
+#: includes/elementor/widgets/rt-social-icons.php:156, includes/elementor/widgets/rt-social-icons.php:354
+msgid "Official"
+msgstr ""
+
+#: includes/elementor/widgets/rt-social-icons.php:254
+msgid "Social Icons"
+msgstr ""
+
+#: includes/elementor/widgets/rt-social-icons.php:259, includes/elementor/widgets/rt-team.php:138, includes/theme-helper-functions.php:10, includes/theme-helper/theme-helper.php:94, includes/theme-helper/theme-helper.php:299
+msgid "Twitter"
+msgstr ""
+
+#: includes/elementor/widgets/rt-social-icons.php:266, includes/elementor/widgets/rt-team.php:130, includes/theme-helper-functions.php:11, includes/theme-helper/theme-helper.php:107, includes/theme-helper/theme-helper.php:313
+msgid "Facebook"
+msgstr ""
+
+#: includes/elementor/widgets/rt-social-icons.php:273, includes/elementor/widgets/rt-team.php:163, includes/theme-helper-functions.php:12
+msgid "Instagram"
+msgstr ""
+
+#: includes/elementor/widgets/rt-social-icons.php:290
+msgid "Rounded"
+msgstr ""
+
+#: includes/elementor/widgets/rt-social-icons.php:495
+msgid "Container Size"
+msgstr ""
+
+#: includes/elementor/widgets/rt-social-icons.php:511
+msgid "Containers Gap"
+msgstr ""
+
+#: includes/elementor/widgets/rt-tabs.php:36
+msgid "RT Tabs"
+msgstr ""
+
+#: includes/elementor/widgets/rt-tabs.php:69
+msgid "Title Alignment"
+msgstr ""
+
+#: includes/elementor/widgets/rt-tabs.php:110, includes/elementor/widgets/rt-tabs.php:112, includes/elementor/widgets/rt-toggle-accordion.php:204, includes/elementor/widgets/rt-toggle-accordion.php:206
+msgid "Tab Title"
+msgstr ""
+
+#: includes/elementor/widgets/rt-tabs.php:120
+msgid "Add Icon/Image"
+msgstr ""
+
+#: includes/elementor/widgets/rt-tabs.php:149
+msgid "Select icon from Fontawesome library."
+msgstr ""
+
+#: includes/elementor/widgets/rt-tabs.php:169, includes/elementor/widgets/rt-toggle-accordion.php:227
+msgid "Content Type"
+msgstr ""
+
+#: includes/elementor/widgets/rt-tabs.php:173, includes/elementor/widgets/rt-toggle-accordion.php:231
+msgid "Saved Templates"
+msgstr ""
+
+#: includes/elementor/widgets/rt-tabs.php:181, includes/elementor/widgets/rt-toggle-accordion.php:239
+msgid "Choose Template"
+msgstr ""
+
+#: includes/elementor/widgets/rt-tabs.php:192, includes/elementor/widgets/rt-toggle-accordion.php:250
+msgid "Tab Content"
+msgstr ""
+
+#: includes/elementor/widgets/rt-tabs.php:194, includes/elementor/widgets/rt-toggle-accordion.php:252
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio, neque qui velit. Magni dolorum quidem ipsam eligendi, totam, facilis laudantium cum accusamus ullam voluptatibus commodi numquam, error, est. Ea, consequatur."
+msgstr ""
+
+#: includes/elementor/widgets/rt-tabs.php:208, includes/elementor/widgets/rt-toggle-accordion.php:267
+msgid "Tab Title 1"
+msgstr ""
+
+#: includes/elementor/widgets/rt-tabs.php:209, includes/elementor/widgets/rt-toggle-accordion.php:270
+msgid "Tab Title 2"
+msgstr ""
+
+#: includes/elementor/widgets/rt-tabs.php:210, includes/elementor/widgets/rt-toggle-accordion.php:271
+msgid "Tab Title 3"
+msgstr ""
+
+#: includes/elementor/widgets/rt-tabs.php:243
+msgid "Title HTML Tag"
+msgstr ""
+
+#: includes/elementor/widgets/rt-tabs.php:293
+msgid "Add Title Bottom Line"
+msgstr ""
+
+#: includes/elementor/widgets/rt-tabs.php:322, includes/elementor/widgets/rt-tabs.php:408, includes/elementor/widgets/rt-tabs.php:483
+msgid "Title Bottom Line Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-tabs.php:568
+msgid "Icon/Image Position"
+msgstr ""
+
+#: includes/elementor/widgets/rt-tabs.php:723
+msgid "Content Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-tabs.php:735
+msgid "Content Background Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:27
+msgid "Team"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:46
+msgid "Team Content"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:56
+msgid "Style 1"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:57
+msgid "Style 2"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:64
+msgid "Items Column"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:68
+msgid "1 Column"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:69
+msgid "2 Column"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:70
+msgid "3 Column"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:71
+msgid "4 Column"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:72
+msgid "6 Column"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:82
+msgid "Team Image"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:103
+msgid "Jonathan Bean"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:113
+msgid "Math Team"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:120
+msgid "Team details page link"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:125
+msgid "Social Link"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:147
+msgid "Youtube"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:155, includes/theme-helper-functions.php:13, includes/theme-helper/theme-helper.php:133, includes/theme-helper/theme-helper.php:341
+msgid "Linkedin"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:171
+msgid "Skype"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:183, includes/theme-helper/theme-helper.php:81
+msgid "Whatsapp"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:191
+msgid "Snapchat"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:198
+msgid "Github"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:205
+msgid "Gitlab"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:215
+msgid "Add Team"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:221
+msgid "Team 1"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:222
+msgid "Degree 1"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:226
+msgid "Team 2"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:227
+msgid "Degree 2"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:231
+msgid "Team 3"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:232
+msgid "Degree 3"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:236
+msgid "Team 4"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:237
+msgid "Degree 4"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:248
+msgid "Name Tag"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:268
+msgid "Degree Tag"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:314
+msgid "Base Color 1"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:325
+msgid "Base Color 2"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:336
+msgid "Base Color 3"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:359, includes/elementor/widgets/rt-video-popup.php:342
+msgid "Button Background"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:409
+msgid "Title Hover Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:467
+msgid "Social"
+msgstr ""
+
+#: includes/elementor/widgets/rt-team.php:485
+msgid "Icon Hover"
+msgstr ""
+
+#: includes/elementor/widgets/rt-toggle-accordion.php:32
+msgid "RT Toggle/Accordion"
+msgstr ""
+
+#: includes/elementor/widgets/rt-toggle-accordion.php:70
+msgid "Accordion"
+msgstr ""
+
+#: includes/elementor/widgets/rt-toggle-accordion.php:71
+msgid "Toggle"
+msgstr ""
+
+#: includes/elementor/widgets/rt-toggle-accordion.php:80
+msgid "Icon Settings"
+msgstr ""
+
+#: includes/elementor/widgets/rt-toggle-accordion.php:93
+msgid "Plus/Minus"
+msgstr ""
+
+#: includes/elementor/widgets/rt-toggle-accordion.php:119
+msgid "Choose Icon"
+msgstr ""
+
+#: includes/elementor/widgets/rt-toggle-accordion.php:141
+msgid "Icon Position"
+msgstr ""
+
+#: includes/elementor/widgets/rt-toggle-accordion.php:176
+msgid "Tab Panel Margin"
+msgstr ""
+
+#: includes/elementor/widgets/rt-toggle-accordion.php:213, includes/elementor/widgets/rt-toggle-accordion.php:576
+msgid "Title Prefix"
+msgstr ""
+
+#: includes/elementor/widgets/rt-toggle-accordion.php:220
+msgid "Active as Default"
+msgstr ""
+
+#: includes/elementor/widgets/rt-video-popup.php:21
+msgid "Video Popup"
+msgstr ""
+
+#: includes/elementor/widgets/rt-video-popup.php:56
+msgid "Video Link"
+msgstr ""
+
+#: includes/elementor/widgets/rt-video-popup.php:58
+msgid "Link from youtube or vimeo."
+msgstr ""
+
+#: includes/elementor/widgets/rt-video-popup.php:61
+msgid "https://www.youtube.com/watch?v="
+msgstr ""
+
+#: includes/elementor/widgets/rt-video-popup.php:69
+msgid "Title Position"
+msgstr ""
+
+#: includes/elementor/widgets/rt-video-popup.php:115
+msgid "Inline"
+msgstr ""
+
+#: includes/elementor/widgets/rt-video-popup.php:144
+msgid "No animation"
+msgstr ""
+
+#: includes/elementor/widgets/rt-video-popup.php:145
+msgid "Static Ring"
+msgstr ""
+
+#: includes/elementor/widgets/rt-video-popup.php:146
+msgid "Pulsing Ring"
+msgstr ""
+
+#: includes/elementor/widgets/rt-video-popup.php:147
+msgid "Divergent Rings"
+msgstr ""
+
+#: includes/elementor/widgets/rt-video-popup.php:148
+msgid "Ripple Effect"
+msgstr ""
+
+#: includes/elementor/widgets/rt-video-popup.php:157
+msgid "Animation Element Color"
+msgstr ""
+
+#: includes/elementor/widgets/rt-video-popup.php:171
+msgid "Run Animation Until Hover"
+msgstr ""
+
+#: includes/elementor/widgets/rt-video-popup.php:268
+msgid "Title Divider"
+msgstr ""
+
+#: includes/elementor/widgets/rt-video-popup.php:306
+msgid "Button Diameter"
+msgstr ""
+
+#: includes/elementor/widgets/rt-video-popup.php:447
+msgid "Icon Rounded Corners"
+msgstr ""
+
+#: includes/elementor/widgets/rt-wpforms.php:25, includes/elementor/widgets/rt-wpforms.php:60
+msgid "WPForms"
+msgstr ""
+
+#: includes/elementor/widgets/rt-wpforms.php:50
+msgid "Form not found"
+msgstr ""
+
+#: includes/elementor/widgets/rt-wpforms.php:865
+msgid "Please Select WPFoms"
+msgstr ""
+
+#: includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:121
+msgid "RT Select Item"
+msgstr ""
+
+#: includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:150
+msgid "Toggle row"
+msgstr ""
+
+#: includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:152
+msgid "Disabled row"
+msgstr ""
+
+#: includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:157
+msgid "Edit this row"
+msgstr ""
+
+#: includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:245
+msgid "Edit this column"
+msgstr ""
+
+#: includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:247
+msgid "Add Item"
+msgstr ""
+
+#: includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:270
+msgid "Select preset for start editing"
+msgstr ""
+
+#: includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:277
+msgid "Save Changes"
+msgstr ""
+
+#: includes/extensions/custom_header_builder/custom_header_builder/field_custom_header_builder.php:310
+msgid "Are you sure want to delete the element?"
+msgstr ""
+
+#: includes/meta-box-extensions/select_icon_field.php:82
+msgid "Select an icon"
+msgstr ""
+
+#: includes/post-types/footer/class-pt-footer.php:29
+msgid "Footer"
+msgstr ""
+
+#: includes/post-types/footer/class-pt-footer.php:30
+msgid "Footers"
+msgstr ""
+
+#: includes/post-types/footer/class-pt-footer.php:46, includes/post-types/footer/class-pt-footer.php:47, includes/post-types/header/class-pt-header.php:46
+msgid "Add New %s"
+msgstr ""
+
+#: includes/post-types/footer/class-pt-footer.php:48, includes/post-types/header/class-pt-header.php:47
+msgid "Edit %s"
+msgstr ""
+
+#: includes/post-types/footer/class-pt-footer.php:49, includes/post-types/header/class-pt-header.php:48
+msgid "New %s"
+msgstr ""
+
+#: includes/post-types/footer/class-pt-footer.php:50
+msgid "All %s"
+msgstr ""
+
+#: includes/post-types/footer/class-pt-footer.php:51, includes/post-types/header/class-pt-header.php:50
+msgid "View %s"
+msgstr ""
+
+#: includes/post-types/footer/class-pt-footer.php:52, includes/post-types/header/class-pt-header.php:51
+msgid "Search %s"
+msgstr ""
+
+#: includes/post-types/footer/class-pt-footer.php:53, includes/post-types/header/class-pt-header.php:52
+msgid "No %s found"
+msgstr ""
+
+#: includes/post-types/footer/class-pt-footer.php:54, includes/post-types/header/class-pt-header.php:53
+msgid "No %s found in Trash"
+msgstr ""
+
+#: includes/post-types/header/class-pt-header.php:28, includes/post-types/header/class-pt-header.php:30
+msgid "Header"
+msgstr ""
+
+#: includes/post-types/header/class-pt-header.php:45
+msgid "Add New Template"
+msgstr ""
+
+#: includes/post-types/header/class-pt-header.php:49
+msgid "All Templates"
+msgstr ""
+
+#: includes/rt_likes/likes.php:79, includes/rt_likes/likes.php:87, includes/rt_likes/likes.php:207
+msgid "Like"
+msgid_plural "Likes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/rt_likes/likes.php:80, includes/rt_likes/likes.php:83
+msgid "Unlike"
+msgstr ""
+
+#: includes/rt_likes/likes.php:217
+msgid "Not permitted"
+msgstr ""
+
+#: includes/theme-helper-functions.php:14, includes/theme-helper/theme-helper.php:55
+msgid "Telegram"
+msgstr ""
+
+#: includes/theme-helper-functions.php:22
+msgid "Instructor Info"
+msgstr ""
+
+#: includes/theme-helper-functions.php:25
+msgid "Occupation"
+msgstr ""
+
+#: includes/theme-helper-functions.php:28
+msgid "Your area of specialty. Note: can be set for LearnPress Instructors only."
+msgstr ""
+
+#: includes/theme-helper-functions.php:35
+msgid "Social media accounts"
+msgstr ""
+
+#: includes/theme-helper-functions.php:41
+msgid "$value"
+msgstr ""
+
+#: includes/theme-helper-functions.php:44
+msgid "Your .$value. url."
+msgstr ""
+
+#: includes/theme-helper/theme-helper.php:46
+msgid "Share article:"
+msgstr ""
+
+#: includes/theme-helper/theme-helper.php:68
+msgid "Reddit"
+msgstr ""
+
+#: includes/theme-helper/theme-helper.php:120, includes/theme-helper/theme-helper.php:327
+msgid "Pinterest"
+msgstr ""
+
+#: includes/theme-helper/theme-helper.php:284
+msgid "Socials"
+msgstr ""
+
+#: includes/theme-helper/theme-helper.php:355
+msgid "Tumblr"
+msgstr ""
+
+#: includes/widgets/author.php:12
+msgid "(GOSTUDY) Blog Author"
+msgstr ""
+
+#: includes/widgets/author.php:13
+msgid "Gostudy Widget "
+msgstr ""
+
+#: includes/widgets/author.php:65
+msgid "Featured author image: "
+msgstr ""
+
+#: includes/widgets/author.php:74
+msgid "Featured author signature: "
+msgstr ""
+
+#: includes/widgets/author.php:181, includes/widgets/banner.php:171, includes/widgets/ld-course.php:207, includes/widgets/lp-course.php:206, includes/widgets/posts.php:199, includes/widgets/tutor-course.php:218
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/author.php:186
+msgid "Author Name:"
+msgstr ""
+
+#: includes/widgets/author.php:191
+msgid "Text:"
+msgstr ""
+
+#: includes/widgets/author.php:196
+msgid "Author Image:"
+msgstr ""
+
+#: includes/widgets/author.php:199, includes/widgets/author.php:206, includes/widgets/author.php:213, includes/widgets/banner.php:145, includes/widgets/banner.php:152
+msgid "Upload"
+msgstr ""
+
+#: includes/widgets/author.php:203
+msgid "Background Image:"
+msgstr ""
+
+#: includes/widgets/author.php:210
+msgid "Author Signature:"
+msgstr ""
+
+#: includes/widgets/banner.php:9
+msgid "(GOSTUDY) Banner"
+msgstr ""
+
+#: includes/widgets/banner.php:10
+msgid "Gostudy widget for banner"
+msgstr ""
+
+#: includes/widgets/banner.php:47
+msgid "Featured image: "
+msgstr ""
+
+#: includes/widgets/banner.php:142
+msgid "Add Logo image:"
+msgstr ""
+
+#: includes/widgets/banner.php:149
+msgid "Add background image:"
+msgstr ""
+
+#: includes/widgets/banner.php:156
+msgid "Padding Top: "
+msgstr ""
+
+#: includes/widgets/banner.php:161
+msgid "Padding Bottom: "
+msgstr ""
+
+#: includes/widgets/banner.php:166
+msgid "Sub Title:"
+msgstr ""
+
+#: includes/widgets/banner.php:176
+msgid "Button Text:"
+msgstr ""
+
+#: includes/widgets/banner.php:181
+msgid "Banner Link:"
+msgstr ""
+
+#: includes/widgets/ld-course.php:29
+msgid "Display LearnDash recent course by categories (or related)"
+msgstr ""
+
+#: includes/widgets/ld-course.php:33
+msgid "(Gostudy) LearnDash Courses"
+msgstr ""
+
+#: includes/widgets/ld-course.php:155, includes/widgets/lp-course.php:154, includes/widgets/posts.php:147, includes/widgets/tutor-course.php:166
+msgid "No posts were found."
+msgstr ""
+
+#: includes/widgets/ld-course.php:212, includes/widgets/lp-course.php:211, includes/widgets/posts.php:204, includes/widgets/tutor-course.php:223
+msgid "Number of posts:"
+msgstr ""
+
+#: includes/widgets/ld-course.php:218, includes/widgets/lp-course.php:217, includes/widgets/posts.php:210, includes/widgets/tutor-course.php:229
+msgid "Show related category posts"
+msgstr ""
+
+#: includes/widgets/ld-course.php:223, includes/widgets/lp-course.php:222, includes/widgets/posts.php:215, includes/widgets/tutor-course.php:234
+msgid "Show thumbnail image"
+msgstr ""
+
+#: includes/widgets/ld-course.php:227, includes/widgets/lp-course.php:226, includes/widgets/posts.php:219, includes/widgets/tutor-course.php:238
+msgid "Post meta info"
+msgstr ""
+
+#: includes/widgets/ld-course.php:232, includes/widgets/lp-course.php:231, includes/widgets/tutor-course.php:243
+msgid "Show Price"
+msgstr ""
+
+#: includes/widgets/ld-course.php:236, includes/widgets/lp-course.php:235, includes/widgets/posts.php:228, includes/widgets/tutor-course.php:247
+msgid "Show content"
+msgstr ""
+
+#: includes/widgets/ld-course.php:240, includes/widgets/lp-course.php:239, includes/widgets/posts.php:232, includes/widgets/tutor-course.php:251
+msgid "Filter by Category:"
+msgstr ""
+
+#: includes/widgets/ld-course.php:242, includes/widgets/lp-course.php:241, includes/widgets/posts.php:234, includes/widgets/tutor-course.php:253
+msgid "All categories"
+msgstr ""
+
+#: includes/widgets/lp-course.php:28
+msgid "Display LearnPress recent course by categories (or related)"
+msgstr ""
+
+#: includes/widgets/lp-course.php:32
+msgid "(GOSTUDY) LearnPress Courses"
+msgstr ""
+
+#: includes/widgets/posts.php:28
+msgid "Display recent posts by categories (or related)"
+msgstr ""
+
+#: includes/widgets/posts.php:32
+msgid "(GOSTUDY) Blog Posts"
+msgstr ""
+
+#: includes/widgets/posts.php:187
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/widgets/posts.php:224
+msgid "Show date"
+msgstr ""
+
+#: includes/widgets/tutor-course.php:28
+msgid "Display Tutor recent course by categories (or related)"
+msgstr ""
+
+#: includes/widgets/tutor-course.php:32
+msgid "(GOSTUDY) Tutor Courses"
+msgstr ""
+
+#: rt-core.php:75
+msgid "Gostudy Core plugin requires PHP version %s+. Your current PHP version is %s."
+msgstr ""
+
+#: rt-core.php:92, rt-core.php:99
+msgid "Gostudy Core plugin compatible with Gostudy theme only!"
+msgstr ""
