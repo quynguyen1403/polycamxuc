@@ -340,7 +340,7 @@ if (!class_exists('Gostudy_Get_Page_Title')) {
                 $this->page_title_tag = 'h1';
                 $title = Gostudy::get_option('404_custom_title_switch')
                     ? esc_html(Gostudy::get_option('404_page_title_text'))
-                    : esc_html__('Trang bị lỗi', 'gostudy');
+                    : esc_html__('Ét Ô Ét', 'gostudy');
             } elseif (is_singular('portfolio')) {
                 $title = Gostudy::get_option('portfolio_title_conditional')
                     ? esc_html__('Portfolio', 'gostudy')

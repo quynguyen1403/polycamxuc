@@ -109,7 +109,7 @@ class Upload extends Field_Base {
 				'input' . $item_index,
 				[
 					'data-maxsize' => $item['file_sizes'],  //MB
-					'data-maxsize-message' => esc_html__( 'This file exceeds the maximum allowed size.', 'elementor-pro' ),
+					'data-maxsize-message' => esc_html__( 'Tệp này vượt quá kích thước tối đa cho phép.', 'elementor-pro' ),
 				]
 			);
 		}
@@ -238,9 +238,9 @@ class Upload extends Field_Base {
 
 		if ( ! $upload_errors ) {
 			$upload_errors = [
-				UPLOAD_ERR_OK => esc_html__( 'There is no error, the file uploaded with success.', 'elementor-pro' ),
+				UPLOAD_ERR_OK => esc_html__( 'Không có lỗi, tập tin được tải lên thành công.', 'elementor-pro' ),
 				/* translators: 1: upload_max_filesize, 2: php.ini */
-				UPLOAD_ERR_INI_SIZE => sprintf( esc_html__( 'The uploaded file exceeds the %1$s directive in %2$s.', 'elementor-pro' ), 'upload_max_filesize', 'php.ini' ),
+				UPLOAD_ERR_INI_SIZE => sprintf( esc_html__( 'Tệp đã tải lên vượt quá chỉ thị %1$s trong %2$s.', 'elementor-pro' ), 'upload_max_filesize', 'php.ini' ),
 				/* translators: %s: MAX_FILE_SIZE */
 				UPLOAD_ERR_FORM_SIZE => sprintf( esc_html__( 'The uploaded file exceeds the %s directive that was specified in the HTML form.', 'elementor-pro' ), 'MAX_FILE_SIZE' ),
 				UPLOAD_ERR_PARTIAL => esc_html__( 'The uploaded file was only partially uploaded.', 'elementor-pro' ),
@@ -259,7 +259,7 @@ class Upload extends Field_Base {
 			if ( count( $_FILES['form_fields'][ $id ] ) > $field['max_files'] ) {
 				$error_message = sprintf(
 					/* translators: %d: The number of allowed files. */
-					_n( 'You can upload only %d file.', 'You can upload up to %d files.', intval( $field['max_files'] ), 'elementor-pro' ),
+					_n( 'You can upload only %d file.', 'Bạn có thể tải lên tối đa %d tệp.', intval( $field['max_files'] ), 'elementor-pro' ),
 					intval( $field['max_files'] )
 				);
 				$ajax_handler->add_error( $id, $error_message );
@@ -290,12 +290,12 @@ class Upload extends Field_Base {
 
 			// valid file type?
 			if ( ! $this->is_file_type_valid( $field, $file ) ) {
-				$ajax_handler->add_error( $id, esc_html__( 'This file type is not allowed.', 'elementor-pro' ) );
+				$ajax_handler->add_error( $id, esc_html__( 'Loại tệp này không được cho phép.', 'elementor-pro' ) );
 			}
 
 			// allowed file size?
 			if ( ! $this->is_file_size_valid( $field, $file ) ) {
-				$ajax_handler->add_error( $id, esc_html__( 'This file exceeds the maximum allowed size.', 'elementor-pro' ) );
+				$ajax_handler->add_error( $id, esc_html__( 'Tệp này vượt quá kích thước tối đa cho phép.', 'elementor-pro' ) );
 			}
 		}
 	}
