@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Đổi lịch học
+Template Name: Đổi lịch học Hà Nội
 */
 
 defined('ABSPATH') || exit;
@@ -28,6 +28,7 @@ $sb = Gostudy::get_sidebar_data();
 $row_class = $sb['row_class'] ?? '';
 $column = $sb['column'] ?? '';
 $container_class = $sb['container_class'] ?? '';
+the_content(esc_html__('Xem thêm!', 'gostudy'));
 function doi_lich_hoc()
 {
     global $wpdb;
@@ -43,10 +44,7 @@ function doi_lich_hoc()
     foreach ($results as $key=>$value){
         $list[$value->submission_id][$value->key] = $value->value;
     }
-    echo '<h3 class="title-content">Cơ sở Hà Nội</h3>';
-    echo '<h3 class="title-content">Danh sách đang tìm đổi</h3>';
-    echo '<h5 class="title-content">(Block I - Summer 2023)</h5>';
-    echo '<p style="color: red">(*) Mẹo: Hãy tìm kiếm bằng Mã môn hoặc Tên môn học</p>';
+
     echo '<table id="doi-lich-hoc" class="table hover">';
     echo "<thead>";
     echo '<tr>
@@ -94,8 +92,8 @@ function doi_lich_hoc()
         $(document).ready( function () {
             var table = $("#doi-lich-hoc").DataTable({
                 lengthMenu: [
-                    [2, 20, 50, 100, 150, 200],
-                    [2, 20, 50, 100, 150, 200],
+                    [20, 50, 100, 150, 200],
+                    [20, 50, 100, 150, 200],
                 ],
                 language: {
                     "lengthMenu": "Hiển thị _MENU_ trên mỗi trang",
@@ -168,33 +166,33 @@ function doi_lich_hoc()
     </script>
 <style>
        .container {
-       max-width: 80%;
-       margin: auto;
+           max-width: 80%;
+           margin: auto;
        }
       table, th, td {
           font-size: 15px;
           border: 1px solid black !important;
-        border-collapse: collapse;
-        text-align: center !important;
+          border-collapse: collapse;
+          text-align: center !important;
       }
       .title-table{
-        font-weight: bold;
-        color: black;
+          font-weight: bold;
+          color: black;
       }
       .mamon{
           text-align: left !important;
       }
       .monhoc{
-        text-align: left !important;
+          text-align: left !important;
       }
       .text-color{
-        color: black;
+          color: black;
       }
       .hientai{
-        background-color: #F1C231 !important;
+          background-color: #F1C231 !important;
       }
       .mongmuon {
-        background-color: #35A853 !important;
+          background-color: #35A853 !important;
       }
       .title-content{
           text-align: center;
@@ -213,6 +211,9 @@ function doi_lich_hoc()
            padding-left: 14px !important;
            width: 77% !important;
        }
+       .dataTables_wrapper {
+           padding-bottom: 50px;
+       }
        .dataTables_wrapper .dataTables_paginate .paginate_button.current {
            border: none !important;
            background: #FF1F59 !important;
@@ -227,11 +228,9 @@ function doi_lich_hoc()
        }
 </style>
 
-<?php doi_lich_hoc();
+<?php //doi_lich_hoc();
 
 echo '</div>';
-
-the_content(esc_html__('Xem thêm!', 'gostudy'));
 
 // Pagination
 wp_link_pages(Gostudy::pagination_wrapper());

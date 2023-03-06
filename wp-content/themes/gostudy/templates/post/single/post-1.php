@@ -36,8 +36,8 @@ $use_views = Gostudy_Theme_Helper::get_option('single_views');
 	if ( !$hide_all_meta ) $single->render_post_meta($meta_date);
 
 	// Title ?>
-	<h1 class="blog-post_title"><?php echo get_the_title(); ?></h1>
-
+<!--    Quý sửa-->
+<!--	<h1 class="blog-post_title">--><?php //echo get_the_title(); ?><!--</h1>-->
 	<div class="post_meta-wrap"><?php
 
 	// Cats, Author, Comments
